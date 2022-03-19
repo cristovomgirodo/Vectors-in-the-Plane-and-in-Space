@@ -21,13 +21,13 @@ Some authors of Calculus do the analytic definition of vectors using coordinates
 
 It is important to note that the vectors <x,y>  and <x,y,z> are ordered pairs and triples of reals numbers, are not points (x,y) and (x,y,z) in the plane and space. For the vector v = <x,y> and vector w = <x,y,z>, the numbers x and y are the components of the vector v and  the numbers x, y and z are the components of the vector w.
 
-In the Linear Algebra a list of values 
+# In the Linear Algebra a list of values 
 
-v = (v1,v2,v3) is called a linear array or vector
+# v = (v1,v2,v3) is called a linear array or vector
 
-Any triples of points: P(p1,p2,p3) and Q(q1,q2,q3) in |R³ define the located vector from P to Q, written as vector PQ. 
+# Any triples of points: P(p1,p2,p3) and Q(q1,q2,q3) in |R³ define the located vector from P to Q, written as vector PQ. 
 
-  Vector PQ = Q – P = [ q1 – p1, q2 – p2, q3 - p3]
+# Vector PQ = Q – P = [ q1 – p1, q2 – p2, q3 - p3]
 
 Neither always the developers of programming language use the same symbols as is represented in  mathematics when create new programming languages. The reader more interested in subject will can acess the best books of Calculus, Linear Algebra, and Analytic Geometry of the higher education. 
 
