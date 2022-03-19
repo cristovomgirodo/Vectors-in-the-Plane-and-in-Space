@@ -6,4 +6,4 @@ After all the development was begin the test necessary in various exercises to f
 
 Inner as code of the functions developed in VectorModDev.py and VectorModule2Dim.py modules are the definitions and theorems more used in applications using vectors. 
 
-The VectorModDev.py and VectorModule2Dim.py modules as too the runtoolsvectors.py and runvectors2dim.py programs was developed only using the Python programming language. 
+The VectorModDev.py and VectorModule2Dim.py modules as too the runtoolsvectors.py and runvectors2dim.py programs was developed using only the Python programming language. 
