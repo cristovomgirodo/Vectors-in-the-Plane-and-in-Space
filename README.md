@@ -33,56 +33,56 @@ Neither always the developers of programming language use the same symbols as is
 
 In Python programming language , an list data structure are represented to a pair square bracket [ ].and an tuple data structure are represented to a pair square parentheses ( ). Python program may use a list or tuple data structure to represent a vector. Was use the tuple data structure only to represent the coordinates of the vertices points: P, Q, and R of triangles and too the coordinates of the vertices points: P, Q, R and S of parallelogram into code of the functions into modules. 
 
-The main point of the mathematics developed into the functions of the VectorModDev.py and VectorModule2Dim.py modules using definions and theorems that are:
+# The main point of the mathematics developed into the functions of the VectorModDev.py and VectorModule2Dim.py modules using definions and theorems that are:
 
-1. Operations (Addition and Subtraction) on Vectors in Plane and in Space.
-2. Given two points: P and Q in Plane and Space get to theorem the vector that represent the displacement, distance, midpoint between this points.
-3. Find the length of any vector
-4. The scalar product of two vectors in Plane and in Space.
-5. Calculate the Cosine as too the angle between two vectors using the scalar product
-6. Find the following dimensions: sideA=|vectorA|, sideB=|vectorB|, sideC=|vectorC|, Perimeter(P), and Area(A) of a triangle PQR given the points: P, Q, and R in Plane.
-7. The Cross Product of two vectors in Space.
-8. Get the height(h) and area(S) of an parallelogram PQRS given the two vectors.
-9. Find the volume(V) and the height(h) of the parallelepiped determined by vectors: a, b, and c using the triple scalar product.
-10. Calculate the area(A) of the triangle PQR given the points: P, Q, and R in Space.
-11. Find sinθ where θ is the angle between the vectors b and c.
-12. Givens the coordinates of two points:  P and Q in Plane or Space, find the vector a=vectorPQ and too your length.
-13. Determine the [Direction Cosines] and [Direction Angles] givens the Vector a or two points: P and Q in Space. 
+# 1. Operations (Addition and Subtraction) on Vectors in Plane and in Space.
+# 2. Given two points: P and Q in Plane and Space get to theorem the vector that represent the displacement, distance, midpoint between this points.
+# 3. Find the length of any vector
+# 4. The scalar product of two vectors in Plane and in Space.
+# 5. Calculate the Cosine as too the angle between two vectors using the scalar product
+# 6. Find the following dimensions: sideA=|vectorA|, sideB=|vectorB|, sideC=|vectorC|, Perimeter(P), and Area(A) of a triangle PQR given the points: P, Q, and R in Plane.
+# 7. The Cross Product of two vectors in Space.
+# 8. Get the height(h) and area(S) of an parallelogram PQRS given the two vectors.
+# 9. Find the volume(V) and the height(h) of the parallelepiped determined by vectors: a, b, and c using the triple scalar product.
+# 10. Calculate the area(A) of the triangle PQR given the points: P, Q, and R in Space.
+# 11. Find sinθ where θ is the angle between the vectors b and c.
+# 12. Givens the coordinates of two points:  P and Q in Plane or Space, find the vector a=vectorPQ and too your length.
+# 13. Determine the [Direction Cosines] and [Direction Angles] givens the Vector a or two points: P and Q in Space. 
 
-When developed the VectorModDev.py and VectorModule2Dim.py modules, almost all the functions developed was use the Vectorial Algebra in a list data structure to reduce the size of the functions. As the Python lists are well powerful the runvectors2dim.py and runtoolsvectors.py programs  will process any calculus using the inner functions of the previous modules. The vectornumber, introduce, instruction1, instruction2 and ResultantVector functions are the only that was not use the list data structure.
+# When developed the VectorModDev.py and VectorModule2Dim.py modules, almost all the functions developed was use the Vectorial Algebra in a list data structure to reduce the size of the functions. As the Python lists are well powerful the runvectors2dim.py and runtoolsvectors.py programs  will process any calculus using the inner functions of the previous modules. The vectornumber, introduce, instruction1, instruction2 and ResultantVector functions are the only that was not use the list data structure.
  
 The runtoolsvectors.py and runvectors2dim.py programs was developed to the programmers as also to teachers and  students of the higher education to  find speed answer when will solve the vectors problems. In codes of the VectorModDev.py and VectorModule2Dim.py modules, was do represent the vertices points: P, Q, R and S and the vectors: A, B, and C of the following manner:
 
 
-Point P, Q, R, and S in the Plane: 
+# Point P, Q, R, and S in the Plane: 
 
-Point P: P(xP,yP)
-Point Q: Q(xQ,yQ)
-Point R: R(xR,yR)
-Point S: S(xS,yS)
+# Point P: P(xP,yP)
+# Point Q: Q(xQ,yQ)
+# Point R: R(xR,yR)
+# Point S: S(xS,yS)
 
-Point P, Q, R, and S in the Space: 
+# Point P, Q, R, and S in the Space: 
 
-Point P: P(xP,yP,zP)
-Point Q: Q(xQ,yQ,zQ)
-Point R: R(xR,yR,zR)
-Point S: S(xS,yS,zS)
+# Point P: P(xP,yP,zP)
+# Point Q: Q(xQ,yQ,zQ)
+# Point R: R(xR,yR,zR)
+# Point S: S(xS,yS,zS)
 
-To any values attribute to the Coordinates: xP,yP,zP, xQ,yQ,zQ, xR,yR,zR, xS,yS,zS by users.
+# To any values attribute to the [Coordinates]: xP,yP,zP, xQ,yQ,zQ, xR,yR,zR, xS,yS,zS by users.
 
-The vectors: A, B, and C in the Plane:
+# The vectors: A, B, and C in the Plane:
 
-[vectorA]: vectorA[xA,yA]
-[vectorB]: vectorB[xB,yB]
-[vectorC]: vectorC[xC,yC]
+# [vectorA]: vectorA[xA,yA]
+# [vectorB]: vectorB[xB,yB]
+# [vectorC]: vectorC[xC,yC]
 
-The vectors: A, B, and C in the Space:
+# The vectors: A, B, and C in the Space:
 
-[vectorA]: vectorA[xA,yA,zA]
-[vectorB]: vectorB[xB,yB,zB]
-[vectorC]: vectorC[xC,yC,zC]
+# [vectorA]: vectorA[xA,yA,zA]
+# [vectorB]: vectorB[xB,yB,zB]
+# [vectorC]: vectorC[xC,yC,zC]
 
-To any values attribute to the Components: xA, yA,z A, xB, yB, zB, xC, yC, zC by users.
+# To any values attribute to the [Components]: xA, yA,z A, xB, yB, zB, xC, yC, zC by users.
 
 
 [Warning-2] – Was standardize the letters: A, B, and C to the vectors and P, Q, R, and S to points of the vertices of triangles, parallelogram and parallelepiped into the code of the functions of the  VectorModDev.py and VectorModule2Dim.py modules. 
@@ -90,7 +90,7 @@ To any values attribute to the Components: xA, yA,z A, xB, yB, zB, xC, yC, zC by
 
 All the development of the functions inside of the VectorModDev.py and VectorModule2Dim.py modules are isolate into Vectors2Dim and Vectors3Dim directories because the use of Vectors in the Plane and Space. Too are isolate the runtoolsvectors.py and runvectors2dim.py programs into the Vectors2Dim and Vectors3Dim directories. In Vectors2Dim directorie have the file instruction1.pdf of as use the runvectors2dim.py program with examples and in Vectors3Dim directorie have the file instruction2.pdf of as use the runtoolsvectors.py program with examples. Are examples selected and eases of use. The  runtoolsvectors.py and runvectors2dim.py programs too have inner instructions when are be used. All the users too will duty follow this instructions showed into as display. The theory with the definitions and theorems of vectors was used in development of the functions inside of the VectorModDev.py and VectorModule2Dim.py modules.
 
-The ResultantVector function will find the Resultant(|R) Vector by means of the Decomposion Components. Any user that enter 2 or 3 or 4 or . . . or any number the vectors in polar form will get the Resultant(|R) Vector of propose problem. The ResultantVector function was created to solve mechanics problems using vectors to the beginner students of the higher education  of  physics, mathematics, chemistry as too engineering. Was have origin when was buy and learned programm the powerful HP 32 SII RPN SCIENTIFIC Calculator. The Vectors2Dim directorie have an free copy of the ATVUDE program to all know as too use. The ResultantVector function is well more powerful than the ATVUDE program. The ResultantVector function reside only in the VectorModule2Dim.py module into the Vectors2Dim directorie. To use this function key [10] after run the runvectors2dim.py program.
+# The ResultantVector function will find the Resultant(|R) Vector by means of the Decomposion Components. Any user that enter 2 or 3 or 4 or . . . or any number the vectors in polar form will get the Resultant(|R) Vector of propose problem. The ResultantVector function was created to solve mechanics problems using vectors to the beginner students of the higher education  of  physics, mathematics, chemistry as too engineering. Was have origin when was buy and learned programm the powerful HP 32 SII RPN SCIENTIFIC Calculator. The Vectors2Dim directorie have an free copy of the ATVUDE program to all know as too use. The ResultantVector function is well more powerful than the ATVUDE program. The ResultantVector function reside only in the VectorModule2Dim.py module into the Vectors2Dim directorie. To use this function key [10] after run the runvectors2dim.py program.
 
 [Warning-3] – Use the runvectors2dim.py program with the functions developed into the  VectorModule2Dim.py module to solve problems in Plane of the same manner with the  runtoolsvectors.py program using the functions developed into the VectorModDev.py  module to solve problems in Space.
 
@@ -98,6 +98,6 @@ When the runtoolsvectors.py and runvectors2dim.py programs process the solutions
 
 The runtoolsvectors.py and runvectors2dim.py programs will not present no geometric design of the Vectors operations. The full theory about Vectors will can be finded in the best new books of calculus. With the runtoolsvectors.py and runvectors2dim.py programs will help all the developers(or programmers), teachers, students higher graduation as too any person of field the find the speed solution. 
 
-Developed the runtoolsvectors.py and runvectors2dim.py programs to solve vectors problems that study. Before of the use, all the users will duty follow all the instructions of the files instruction1.pdf and  instruction2.pdf. Now be present the all to know as too do the download to use free. I’m be the only developer( or programmer ) of the VectorModDev.py and VectorModule2Dim.py modules and of the runtoolsvectors.py and runvectors2dim.py programs. 
+# Developed the runtoolsvectors.py and runvectors2dim.py programs to solve vectors problems that study. Before of the use, all the users will duty follow all the instructions of the files instruction1.pdf and  instruction2.pdf. Now be present the all to know as too do the download to use free. I’m be the only developer( or programmer ) of the VectorModDev.py and VectorModule2Dim.py modules and of the runtoolsvectors.py and runvectors2dim.py programs. 
 
-# Cristovom A. Girodo ( Was receive the higher graduation in mathematics in the F.F.C.L. “Oswaldo Cruz”).
+Cristovom A. Girodo ( Was receive the higher graduation in mathematics in the F.F.C.L. “Oswaldo Cruz”).
