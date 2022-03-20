@@ -69,8 +69,8 @@ elif numop == 6:
     print('\n\t**[TO GET THE [DISTANCE(D)] BETWEEN ANY [TWO POINTS] GIVEN P AND Q]**\n')
     VectorPQ, VectorQUAD, Distance = distanceTwoPoints()
     print('n\t-- The [vectorPQ]: vectorPQ',VectorPQ)
-    print('n\t-- The [Quadratic Components] of the [vectorPQ]: VectorQUAD',VectorQUAD)
-    print('n\t-- The [Distance(D)] geted between Two (Points) P and Q] is:',format((Distance),'<10.2f'),'\n')
+    print('\t-- The [Quadratic Components] of the [vectorPQ]: VectorQUAD',VectorQUAD)
+    print('\t-- The [Distance(D)] geted between Two (Points) P and Q] is:',format((Distance),'<10.2f'),'\n')
     
 elif numop == 7:
     print('\n\t**[ TO FIND THE THREES [INNER ANGLES] OF THE [TRIANGLE(PQR)] ]**\n')
