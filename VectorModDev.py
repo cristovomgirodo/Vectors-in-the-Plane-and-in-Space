@@ -509,9 +509,9 @@ def crossProduct(number):
     # of the vectorA and vectorB or the (coordinates) of the given points: P, Q, and R, 
     # will find the Cross Product given to:
     #
-    #                   |   i     j   k |
+    #             |  i   j   k |
     # vectorAxB = | a1  a2  a3 |  
-    #                   | b1  b2  b3 |  
+    #             | b1  b2  b3 |  
     #                                       
     #  will calculate the value of the [area A of the parallelogram] given to [ A = |vectorAxB| ]
     #  as also will determine the value of the [area A of the triangle]: A = |vectorAxB| / 2 or
@@ -580,9 +580,9 @@ def mixedProduct(number):
     # This function mixedProduct(number) after enter all tthe [coomponents]: a1, a2, a3, b1, b2, b3, c1, c2, and c3  
     # of the vectorA,  vectorB and vectorC or the (coordinates) of the given points: P, Q, R, and S , will find  the
     # Mixed Product given to:
-    #                                                                 | a1  a2  a3 |
+    #                                               | a1  a2  a3 |
     # volume(V) = abs ( vectorA * (B x C) ) = abs ( | b1  b2  b3 | )   
-    #                                                                 | c1  c2  c3 |    
+    #                                               | c1  c2  c3 |    
     #                                                                 						                                                         
     #   will calculate the [value] of the [determinant of the ( 3 x 3) matrix] by [Theorem of Sarru's] that is                                                               					
     #   the [volume(V)] of the [Parallelepiped] and will find also the [volume(V)  of the Tetrahedron]. 
