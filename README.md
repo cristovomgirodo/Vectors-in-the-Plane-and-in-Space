@@ -104,4 +104,5 @@ Cristovom A. Girodo ( Was receive the higher graduation in mathematics in the F.
 
 
 # [Warning]:
-The files: AlgorithmATVUDE.pdf, instructions1.pdf, runvectors2dim.py, and VectorModule2Dim.py already are copyed of the VectorsDim directorie.
+The files: AlgorithmATVUDE.pdf, instructions1.pdf, runvectors2dim.py, and VectorModule2Dim.py already was copy of the Vectors2Dim directorie as too was copy the files instructions2User.pdf, runtoolsvectors.py, and VectorModDev.py of the Vectors3Dim directory.
+
