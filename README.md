@@ -101,3 +101,7 @@ The runtoolsvectors.py and runvectors2dim.py programs will not present no geomet
 # Developed the runtoolsvectors.py and runvectors2dim.py programs to solve vectors problems that study. Before of the use, all the users will duty follow all the instructions of the files instruction1.pdf and  instruction2.pdf. Now be present the all to know as too do the download to use free. I’m be the only developer( or programmer ) of the VectorModDev.py and VectorModule2Dim.py modules and of the runtoolsvectors.py and runvectors2dim.py programs. 
 
 Cristovom A. Girodo ( Was receive the higher graduation in mathematics in the F.F.C.L. “Oswaldo Cruz”).
+
+
+# [Warning]:
+The files: AlgorithmATVUDE.pdf, instructions1.pdf, runvectors2dim.py, and VectorModule2Dim.py already are copyed of the VectorsDim directorie.
