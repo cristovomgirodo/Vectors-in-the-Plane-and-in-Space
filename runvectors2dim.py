@@ -93,7 +93,7 @@ elif numop == 10:
     
 elif numop == 11:
     print('\n\t**[TO CALCULATE THE [VECTOR(A)] AND [LENGHT] OF TWO GIVENS POINTS: P, AND Q]**\n')
-    findVector()
+    findVectorA()
 
 elif numop == 12:
     print('\n\t\t**[ GIVENS [TWO VECTORS: A AND B] MULTIPLYED BY THE [SCALARS]: [COEFFIC1] AND [COEFFIC2] OR ]**')
