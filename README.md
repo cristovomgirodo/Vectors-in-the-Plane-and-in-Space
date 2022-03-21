@@ -98,7 +98,7 @@ When the runtoolsvectors.py and runvectors2dim.py programs process the solutions
 
 The runtoolsvectors.py and runvectors2dim.py programs will not present no geometric design of the Vectors operations. The full theory about Vectors will can be finded in the best new books of calculus. With the runtoolsvectors.py and runvectors2dim.py programs will help all the developers(or programmers), teachers, students higher graduation as too any person of field the find the speed solution. 
 
-# Developed the runtoolsvectors.py and runvectors2dim.py programs to solve vectors problems that study. Before of the use, all the users will duty follow all the instructions of the files instruction1.pdf and  instruction2.pdf. Now be present the all to know as too do the download to use free. I’m be the only developer( or programmer ) of the VectorModDev.py and VectorModule2Dim.py modules and of the runtoolsvectors.py and runvectors2dim.py programs. 
+# Developed the runtoolsvectors.py and runvectors2dim.py programs to solve vectors problems that study. Before of the use, all the users will duty follow all the instructions of the files instruction1User.pdf and  instruction2User.pdf. Now be present the all to know as too do the download to use free. I’m be the only developer( or programmer ) of the VectorModDev.py and VectorModule2Dim.py modules and of the runtoolsvectors.py and runvectors2dim.py programs. 
 
 Cristovom A. Girodo ( Was receive the higher graduation in mathematics in the F.F.C.L. “Oswaldo Cruz”).
 
