@@ -131,7 +131,8 @@ elif numb == 13:
     
 elif numb == 14:
     print('\n\t**[ GIVENS TWO POINTS P AND Q] FIND THE [VECTOR(A)] AND [LENGHT] IN THE [TRI-DIMENSIONAL(XYZ) SPACE]**\n')
-    findVectorA() # Was fix an error finded. 
+    varint = 1 
+    findVectorA(varint) # Was fix an error finded. 
 
 elif numb == 15:
     print('\n\t**[ GIVENS AN VECTOR(A) OR TWO POINTS: P AND Q DETERMINE THE [DIRECTION ANGLES] AND [DIRECTION COSINES] ]**\n')
