@@ -706,8 +706,10 @@ def formaComponent():
     print('\n\t-- The [vectorA]: vectorA', vectorA)
     print('\t-- The [vectorB]: vectorB', vectorB, '\n')
 
-    coeffic1 = float(input('\t- Enter with new [value] to the (1º)[coefficient]? '))
-    coeffic2 = float(input('\t- Give the new [value] to the (2º)[coefficient]? '))
+    print('\t- Enter with new [value] to the (1º)[coefficient]?')
+    coeffic1 = introduce()
+    print('\t- Give the new [value] to the (2º)[coefficient]?')
+    coeffic2 = introduce()
 
     vectorAcoeffic1 = []
     vectorBcoeffic2 = []
