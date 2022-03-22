@@ -674,7 +674,7 @@ def enterCoordPointPQ():
     print('\t- The (Point Q): Q',PointQ,'\n')
     return pointP, pointQ, xP, yP, zP, xQ, yQ, zQ
 
-def findVectorA():
+def findVectorA(num):
     pointP, pointQ, xP, yP, zP, xQ, yQ, zQ = enterCoordPointPQ()
     vectorPQ = []
 
@@ -690,7 +690,11 @@ def findVectorA():
     answer()
     print('\t-- The [vectorA]: vectorA=vectorPQ',vectorA)
     print('\t-- The [lenght] of the vectorA=|vectorA|: ', format((normA),'<10.2f'),'\n')
-    return vectorA, normA # fix an error
+    # update
+    if num == 1:
+        return vectorA, normA # fix an error
+    elif num == 2:
+        return vectorA  
 
 def enterCoordPointPR():
     # Given any two points: P and R find the vector B
@@ -742,19 +746,24 @@ def formaComponent():
     
     if number == 1:
         print('\n\t- Provide the [Components] of the [vectors]: vectorA and vectorB.')
+        # update
         varint = 2
         vectorA, vectorB = componentsVector(varint)
     elif number == 2:
         print('\n\t- Give the [Coordinates] of the [givens points: P and Q].')
-        vectorA = findVectorA()
+        varint = 2 #
+        vectorA = findVectorA(varint) # update
         print('\t- Enter the [Coordinates] of the [givens points: P and R].')
         vectorB = findVectorB()
           
     print('\n\t-- The [vectorA]: vectorA', vectorA)
     print('\t-- The [vectorB]: vectorB', vectorB, '\n')
 
-    coeffic1 = float(input('\t- Enter with new [value] to the (1º)[coefficient]? '))
-    coeffic2 = float(input('\t- Give the new [value] to the (2º)[coefficient]? '))
+    # update
+    print('\t- Enter with new [value] to the (1º)[coefficient]?')
+    coeffic1 = introduce()
+    print('\t- Give the new [value] to the (2º)[coefficient]?')
+    coeffic2 = introduce()
 
     vectorAcoeffic1 = []
     vectorBcoeffic2 = []
@@ -869,7 +878,9 @@ def directionAngles():
         print('\t-- The [lenght] of the vectorA=|vectorA|: ', format((lengthA),'<10.2f'),'\n')
         directionAngleSub(a1,a2,a3,lengthA)
     elif number == 2:
-        vectorA, lengthA = findVectorA()  # fix an error
+        # update
+        varint = 1 
+        vectorA, lengthA = findVectorA(varint) # fix an error  
         a1 = vectorA[0]
         a2 = vectorA[1]
         a3 = vectorA[2]
