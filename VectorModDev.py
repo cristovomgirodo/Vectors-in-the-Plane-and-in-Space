@@ -690,7 +690,7 @@ def findVectorA():
     answer()
     print('\t-- The [vectorA]: vectorA=vectorPQ',vectorA)
     print('\t-- The [lenght] of the vectorA=|vectorA|: ', format((normA),'<10.2f'),'\n')
-    return vectorA
+    return vectorA, normA # fix an error
 
 def enterCoordPointPR():
     # Given any two points: P and R find the vector B
@@ -869,7 +869,7 @@ def directionAngles():
         print('\t-- The [lenght] of the vectorA=|vectorA|: ', format((lengthA),'<10.2f'),'\n')
         directionAngleSub(a1,a2,a3,lengthA)
     elif number == 2:
-        vectorA, lengthA = findVector()
+        vectorA, lengthA = findVectorA()  # fix an error
         a1 = vectorA[0]
         a2 = vectorA[1]
         a3 = vectorA[2]
