@@ -16,7 +16,7 @@ def vectornumber():
             return coeffic1
         except ValueError as err:
             print('\t    /////')
-            print('\t   @<@  [Warning!]:',err)
+            print('\t    @<@  [Warning!]:',err)
             print('\t    \~/  [TYPE AN [NEW INTEGER NUMBER] IN NEXT INSTRUCTION -- OK!]\n')
        
 def introduce():
