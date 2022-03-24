@@ -577,9 +577,9 @@ def crossProduct(number):
     
 def mixedProduct(number):
     #
-    # This function mixedProduct(number) after enter all tthe [coomponents]: a1, a2, a3, b1, b2, b3, c1, c2, and c3  
-    # of the vectorA,  vectorB and vectorC or the (coordinates) of the given points: P, Q, R, and S , will find  the
-    # Mixed Product given to:
+    # This function mixedProduct(number) after enter all tthe [coomponents]: a1, a2, a3, b1, b2, b3, c1, c2, and c3 of the  
+    # vectorA,vectorB and vectorC or the [components] of the [vectors] represented by vectorA = vectorPQ, vectorB = vectorPR,   
+    # vectorC = vectorPS of the given points: P, Q, R, and S ,will find  the Mixed Product given to:
     #                                               | a1  a2  a3 |
     # volume(V) = abs ( vectorA * (B x C) ) = abs ( | b1  b2  b3 | )   
     #                                               | c1  c2  c3 |    
