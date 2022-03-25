@@ -505,9 +505,9 @@ def dotProduct(number):
         return normA, normB, dot_product, cossineTheta
         
 def crossProduct(number):
-    # This function crossProduct(number) after enter all the [coomponents]: a1, a2, a3, b1, b2, b3   
-    # of the vectorA and vectorB or the (coordinates) of the given points: P, Q, and R, 
-    # will find the Cross Product given to:
+    # This function crossProduct(number) after enter all the [coomponents]: a1, a2, a3, b1, b2, b3 of the vectorA and  
+    # vectorB or the [components] of the [vectors] represented by vectorA = vectorPQ, and vectorB = vectorPR, will find 
+    # the Cross Product given to:
     #
     #             |  i   j   k |
     # vectorAxB = | a1  a2  a3 |  
