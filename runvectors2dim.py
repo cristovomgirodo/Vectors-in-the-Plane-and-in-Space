@@ -8,7 +8,7 @@
 
 print('\n\n\t  **[ WELCOME IN USING THE [RUNVECTORS2DIM.PY] PROGRAM ]**') 
 print('\t**[ TO [SOLVE] VARIOUS PROBLEMS OF [VECTORS] in the [PLANE] ]**')
-print('\t\t\t--[Version: 1.0 -- Stable]--')
+print('\t\t\t--[Version: 1.1 -- Stable]--')
 print('\n\n\t**[INSTRUCTIONS OF USE]**\n')
 print('- To find the [Scalar Product: a * b] between [two vectors] key [1]')
 print('- To calculate the [Perimeter(P)], [Height(h), and [Area(A)] of the\n  TrianglePQR givens the [points: P, Q, and R] key[2]\n')
