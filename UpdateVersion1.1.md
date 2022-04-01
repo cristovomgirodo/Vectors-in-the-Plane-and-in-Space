@@ -1,6 +1,6 @@
 [new warning]:
 
-When the users give two clicks in the runvectors2dim.py or runtoolsvectors.py programs inside of Windows operating system will be executed in an screen small size in the Python Shell different of the presented in any Terminal of the Linux operating system. To adjust the size follow the instructions below:
+When the users give two clicks in the runvectors2dim.py or runtoolsvectors.py programs inside of Windows operating system will be executed in an screen small size in the Launches Python 3.8 (64-bit) interpreter different of the presented in any Terminal of the Linux operating system. To adjust the size follow the instructions below:
 
 1. Click in start button and access the Python directory presented in the menu. After click in the Launches Python 3.8 (64-bit) interpreter. When the screen open click with the right button in the title slash and wait the menu open. Follow keyed in the [property] menu guide to open an new form.
 
