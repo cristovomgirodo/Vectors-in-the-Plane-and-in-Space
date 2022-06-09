@@ -91,15 +91,15 @@ All the development of the functions inside of the VectorModDev.py and VectorMod
 
 #### The ResultantVector function will find the Resultant(|R) Vector by means of the Decomposion Components. Any user that enter 2 or 3 or 4 or . . . or any number the vectors in polar form will get the Resultant(|R) Vector of propose problem. The ResultantVector function was created to solve mechanics problems using vectors to the beginner students of the higher education  of  physics, mathematics, chemistry as too engineering. Was have origin when was buy and learned programm the powerful HP 32 SII RPN SCIENTIFIC Calculator. The Vectors2Dim directorie have an free copy of the ATVUDE program to all know as too use. The ResultantVector function is well more powerful than the ATVUDE program. The ResultantVector function reside only in the VectorModule2Dim.py module into the Vectors2Dim directory. To use this function key [10] after run the runvectors2dim.py program.
 
-**[Warning-3]** – Use the runvectors2dim.py program with the functions developed into the  VectorModule2Dim.py module to solve problems in Plane of the same manner with the  runtoolsvectors.py program using the functions developed into the VectorModDev.py module to solve problems in Space.
+**[Warning-3]** – Use the runvectors2dim.py program with the functions developed into the  VectorModule2Dim.py module to solve problems in Plane of the same manner with the runtoolsvectors.py program using the functions developed into the VectorModDev.py module to solve problems in Space.
 
-When the runtoolsvectors.py and runvectors2dim.py programs process the solutions requested all the results will showed by reals numbers. No result will presented in root or as fraction. All the roots  or fractions are processed before of the end result.  
+When the runtoolsvectors.py and runvectors2dim.py programs process the solutions requested all the results will showed by reals numbers. No result will presented in root or as fraction. All the roots or fractions are processed before of the end result.  
 
 The runtoolsvectors.py and runvectors2dim.py programs will not present no geometric design of the Vectors operations. The full theory about Vectors will can be finded in the best new or old books of calculus. With the runtoolsvectors.py and runvectors2dim.py programs will help all the developers(or programmers), teachers, students higher graduation as too any person of field the find the speed solution. 
 
 #### Developed the runtoolsvectors.py and runvectors2dim.py programs to solve vectors problems that study. Before of the use, all the users will duty follow all the instructions of the files instruction1User.pdf and  instruction2User.pdf. Now be present the all to know as too do the download to use free. I’m be the only developer( or programmer ) of the VectorModDev.py and VectorModule2Dim.py modules and of the runtoolsvectors.py and runvectors2dim.py programs.
 
-##### Cristovom A. Girodo ( Was receive the higher graduation in mathematics in the F.F.C.L. “Oswaldo Cruz”).
+###### Cristovom A. Girodo ( Was receive the higher graduation in mathematics in the F.F.C.L. “Oswaldo Cruz”).
 
 #### [Warning]:
 The files: AlgorithmATVUDE.pdf, instructions1User.pdf, runvectors2dim.py, and VectorModule2Dim.py already was copy of the Vectors2Dim directory as too was copy the files instructions2User.pdf, runtoolsvectors.py, and VectorModDev.py of the Vectors3Dim directory.
