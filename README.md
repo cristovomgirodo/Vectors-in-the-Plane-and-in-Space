@@ -54,35 +54,35 @@ In Python programming language , an list data structure are represented to a pai
  
 The runtoolsvectors.py and runvectors2dim.py programs was developed to the programmers as also to teachers and  students of the higher education to  find speed answer when will solve the vectors problems. In codes of the VectorModDev.py and VectorModule2Dim.py modules, was do represent the vertices points: P, Q, R and S and the vectors: A, B, and C of the following manner:
 
-## Point P, Q, R, and S in the Plane: 
+### Point P, Q, R, and S in the Plane: 
 
 ### Point P: P(xP,yP)
 ### Point Q: Q(xQ,yQ)
 ### Point R: R(xR,yR)
 ### Point S: S(xS,yS)
 
-## Point P, Q, R, and S in the Space: 
+### Point P, Q, R, and S in the Space: 
 
 ### Point P: P(xP,yP,zP)
 ### Point Q: Q(xQ,yQ,zQ)
 ### Point R: R(xR,yR,zR)
 ### Point S: S(xS,yS,zS)
 
-## To any values attribute to the [Coordinates]: xP,yP,zP, xQ,yQ,zQ, xR,yR,zR, xS,yS,zS by users.
+### To any values attribute to the [Coordinates]: xP,yP,zP, xQ,yQ,zQ, xR,yR,zR, xS,yS,zS by users.
 
-## The vectors: A, B, and C in the Plane:
+### The vectors: A, B, and C in the Plane:
 
 ### [vectorA]: vectorA[xA,yA]
 ### [vectorB]: vectorB[xB,yB]
 ### [vectorC]: vectorC[xC,yC]
 
-## The vectors: A, B, and C in the Space:
+### The vectors: A, B, and C in the Space:
 
 ### [vectorA]: vectorA[xA,yA,zA]
 ### [vectorB]: vectorB[xB,yB,zB]
 ### [vectorC]: vectorC[xC,yC,zC]
 
-## To any values attribute to the [Components]: xA, yA,z A, xB, yB, zB, xC, yC, zC by users.
+### To any values attribute to the [Components]: xA, yA,z A, xB, yB, zB, xC, yC, zC by users.
 
 
 **[Warning-2]** – Was standardize the letters: A, B, and C to the vectors and P, Q, R, and S to points of the vertices of triangles, parallelogram and parallelepiped into the code of the functions of the  VectorModDev.py and VectorModule2Dim.py modules. 
@@ -99,11 +99,7 @@ The runtoolsvectors.py and runvectors2dim.py programs will not present no geomet
 
 #### Developed the runtoolsvectors.py and runvectors2dim.py programs to solve vectors problems that study. Before of the use, all the users will duty follow all the instructions of the files instruction1User.pdf and  instruction2User.pdf. Now be present the all to know as too do the download to use free. I’m be the only developer( or programmer ) of the VectorModDev.py and VectorModule2Dim.py modules and of the runtoolsvectors.py and runvectors2dim.py programs.
 
-```
-
-Cristovom A. Girodo ( Was receive the higher graduation in mathematics in the F.F.C.L. “Oswaldo Cruz”).
-
-```
+##### Cristovom A. Girodo ( Was receive the higher graduation in mathematics in the F.F.C.L. “Oswaldo Cruz”).
 
 #### [Warning]:
 The files: AlgorithmATVUDE.pdf, instructions1User.pdf, runvectors2dim.py, and VectorModule2Dim.py already was copy of the Vectors2Dim directory as too was copy the files instructions2User.pdf, runtoolsvectors.py, and VectorModDev.py of the Vectors3Dim directory.
