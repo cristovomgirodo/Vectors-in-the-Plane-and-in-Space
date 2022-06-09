@@ -102,5 +102,5 @@ The runtoolsvectors.py and runvectors2dim.py programs will not present no geomet
 ###### Cristovom A. Girodo ( Was receive the higher graduation in mathematics in the F.F.C.L. “Oswaldo Cruz”).
 
 #### [Warning]:
-The files: AlgorithmATVUDE.pdf, instructions1User.pdf, runvectors2dim.py, and VectorModule2Dim.py already was copy of the Vectors2Dim directory as too was copy the files instructions2User.pdf, runtoolsvectors.py, and VectorModDev.py of the Vectors3Dim directory.
+The files: AlgorithmATVUDE.pdf, instructions1User.pdf, runvectors2dim.py, VectorModule2Dim.py, instructions2User.pdf, runtoolsvectors.py, and VectorModDev.py already was copy of the Vectors2Dim directory and Vectors3Dim directory in my computer to the repository of the GitHub. I'm sorry the all.
 
