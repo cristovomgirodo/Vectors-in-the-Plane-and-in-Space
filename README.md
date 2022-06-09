@@ -50,7 +50,7 @@ In Python programming language , an list data structure are represented to a pai
 #### 12. Givens the coordinates of two points:  P and Q in Plane or Space, find the vector a=vectorPQ and too your length.
 #### 13. Determine the [Direction Cosines] and [Direction Angles] givens the Vector a or two points: P and Q in Space. 
 
-### When developed the VectorModDev.py and VectorModule2Dim.py modules, almost all the functions developed was use the Vectorial Algebra in a list data structure to reduce the size of the functions. As the Python lists are well powerful the runvectors2dim.py and runtoolsvectors.py programs  will process any calculus using the inner functions of the previous modules. The vectornumber, introduce, instruction1, instruction2 and ResultantVector functions are the only that was not use the list data structure.
+#### When developed the VectorModDev.py and VectorModule2Dim.py modules, almost all the functions developed was use the Vectorial Algebra in a list data structure to reduce the size of the functions. As the Python lists are well powerful the runvectors2dim.py and runtoolsvectors.py programs  will process any calculus using the inner functions of the previous modules. The vectornumber, introduce, instruction1, instruction2 and ResultantVector functions are the only that was not use the list data structure.
  
 The runtoolsvectors.py and runvectors2dim.py programs was developed to the programmers as also to teachers and  students of the higher education to  find speed answer when will solve the vectors problems. In codes of the VectorModDev.py and VectorModule2Dim.py modules, was do represent the vertices points: P, Q, R and S and the vectors: A, B, and C of the following manner:
 
@@ -100,7 +100,9 @@ The runtoolsvectors.py and runvectors2dim.py programs will not present no geomet
 #### Developed the runtoolsvectors.py and runvectors2dim.py programs to solve vectors problems that study. Before of the use, all the users will duty follow all the instructions of the files instruction1User.pdf and  instruction2User.pdf. Now be present the all to know as too do the download to use free. I’m be the only developer( or programmer ) of the VectorModDev.py and VectorModule2Dim.py modules and of the runtoolsvectors.py and runvectors2dim.py programs.
 
 ```
+
 Cristovom A. Girodo ( Was receive the higher graduation in mathematics in the F.F.C.L. “Oswaldo Cruz”).
+
 ```
 
 #### [Warning]:
