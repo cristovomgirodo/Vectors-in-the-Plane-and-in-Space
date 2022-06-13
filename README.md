@@ -13,7 +13,7 @@ You can click the Preview link to take a look at your changes.
 
 # Hello the all of the GitHub
 
-The contents of this **Readme.me** is to present all instructions of the use  correct of the runtoolsvectors.py and runvectors2dim.py programs. Before of use the programs the user will duty have installed the python3 interpreter. 
+The contents of this **Readme.me** is to present all instructions of the use  correct of the **runtoolsvectors.py and runvectors2dim.py programs**. Before of use the programs the user will duty have installed *the python3 interpreter*. 
 **[Warning-1]**. No use the version: 2 of the python interpreter.
 
 Below do a **small description theoretical** of the **symbols** used in representation of the vectors. In the main point of the mathematics as Calculus and Linear Algebra as too in Analytic Geometry the Vectors have  symbols to will be representeds. 
@@ -30,9 +30,9 @@ It is important to note that **the vectors <x,y>  and <x,y,z>** are **ordered pa
 
 ### Vector PQ = Q – P = [ q1 – p1, q2 – p2, q3 - p3]
 
-Neither always the developers of programming language use the same symbols as is represented in  mathematics when create new programming languages. The reader more interested in subject will can acess the best books of **Calculus, Linear Algebra, and Analytic Geometry of the higher education**. 
+Neither always the developers of programming language use the same symbols as is represented in  mathematics when create new programming languages. The *reader* more interested in subject will can acess the best books of **Calculus, Linear Algebra, and Analytic Geometry of the higher education**. 
 
-In Python programming language , an list data structure are represented to a pair square bracket [ ].and an tuple data structure are represented to a pair square parentheses ( ). Python program may use a list or tuple data structure to represent a vector. Was use the tuple data structure only to represent the coordinates of the vertices points: P, Q, and R of triangles and too the coordinates of the vertices points: P, Q, R and S of parallelogram, parallelepiped and tetrahedron into code of the functions into modules. 
+In Python programming language , **an list data structure** are represented to **a pair square bracket [ ]**.and **an tuple data structure** are represented to **a pair square parentheses ( )**. Python program may use a *list or tuple data structure* to represent a vector. Was use the tuple data structure only to represent the coordinates of the vertices points: P, Q, and R of triangles and too the coordinates of the vertices points: P, Q, R and S of parallelogram, parallelepiped and tetrahedron into code of the functions into modules. 
 
 ### The main point of the mathematics developed into the functions of the VectorModDev.py and VectorModule2Dim.py modules was use *definions* and *theorems* that are:
 
@@ -52,7 +52,7 @@ In Python programming language , an list data structure are represented to a pai
 
 #### When developed the VectorModDev.py and VectorModule2Dim.py modules, almost all the functions developed was use the Vectorial Algebra in a list data structure to reduce the size of the functions. As the Python lists are well powerful the runvectors2dim.py and runtoolsvectors.py programs  will process any calculus using the inner functions of the previous modules. *The functions: vectornumber(), introduce(), instruction1(), instruction2() and ResultantVector()* are the only that *was not use* in the *list data structure*.
  
-The runtoolsvectors.py and runvectors2dim.py programs was developed to the programmers as also to teachers and  students of the higher education to  find speed answer when will solve the vectors problems. In codes of the VectorModDev.py and VectorModule2Dim.py modules, was do represent the **vertices points: P, Q, R and S** and the **vectors: A, B, and C** of the following manner:
+The **runtoolsvectors.py and runvectors2dim.py programs** was developed to the programmers as also to teachers and  students of the higher education to  find speed answer when will solve the vectors problems. In **codes** of the **VectorModDev.py and VectorModule2Dim.py modules**, was do represent the **vertices points: P, Q, R and S** and the **vectors: A, B, and C** of the following manner:
 
 ### Point P, Q, R, and S in the Plane: 
 
