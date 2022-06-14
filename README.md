@@ -13,7 +13,7 @@ You can click the Preview link to take a look at your changes.
 
 # Hello the all of the GitHub
 
-The contents of this **Readme.me** is to present all instructions of the use  correct of the **runtoolsvectors.py and runvectors2dim.py programs**. Before of use the programs the user will duty have installed *the python3 interpreter*. 
+The contents of this **Readme.md** is to present all instructions of the use  correct of the **runtoolsvectors.py and runvectors2dim.py programs**. Before of use the programs the user will duty have installed *the python3 interpreter*. 
 **[Warning-1]**. No use the version: 2 of the python interpreter.
 
 Below do a **small description theoretical** of the **symbols** used in representation of the vectors. In the main point of the mathematics as Calculus and Linear Algebra as too in Analytic Geometry the Vectors have  symbols to will be representeds. 
