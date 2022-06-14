@@ -101,6 +101,10 @@ The **runtoolsvectors.py and runvectors2dim.py programs** *will not present no g
 
 ###### Cristovom A. Girodo ( Was receive the higher graduation in mathematics in the F.F.C.L. “Oswaldo Cruz”).
 
-#### [Warning]:
+#### [Warning-4]:
 The files: AlgorithmATVUDE.pdf, instructions1User.pdf, runvectors2dim.py, VectorModule2Dim.py, instructions2User.pdf, runtoolsvectors.py, and VectorModDev.py already was copy of the Vectors2Dim and Vectors3Dim directories in my computer to the my repository in the GitHub. I'm sorry the all.
+
+#### [Warning-5]:
+The files: instruction1User.pdf and  instruction2User.pdf was do update with new name as: instruction1UserUpdate.pdf and  instruction2UserUpdate.pdf.
+
 
