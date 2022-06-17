@@ -16,16 +16,16 @@ You can click the Preview link to take a look at your changes.
 The contents of this **Readme.md** is to present all instructions of the use  correct of the **runtoolsvectors.py and runvectors2dim.py programs**. Before of use the programs the user will duty have installed *the python3 interpreter*. 
 **[Warning-1]**. No use the version: 2 of the python interpreter.
 
-Below do a **small description theoretical** of the **symbols** used in representation of the vectors. In the main point of the mathematics as Calculus and Linear Algebra as too in Analytic Geometry the Vectors have  symbols to will be representeds. 
+Below do a **small description theoretical** of the **symbols** used in representation of the vectors. In the main point of the mathematics as *Calculus* and *Linear Algebra* as too in *Analytic Geometry* the Vectors have  symbols to will be representeds. 
 
 Some authors of Calculus do the analytic definition of vectors using **coordinates (x,y) for any point P in plane** to associate a unique **ordered pair <x,y>** to the **vector v = vectorOP** ( whose initial point is the origin O ) and the **coordinates (x,y,z) for any point Q in space** to associate a unique **ordered triple<x,y,z>** to the **vector w = vectorOQ**.
 
 It is important to note that **the vectors <x,y>  and <x,y,z>** are **ordered pairs and triples of reals numbers**, are not **points (x,y) and (x,y,z) in the plane and space**. For the **vectors v = <x,y> and vector w = <x,y,z>**, the **numbers x and y** are the **components of the vector v** and  the **numbers x, y and z** are the **components of the vector w**.
 
 ### In the Linear Algebra a list of values 
-
-### v = (v1,v2,v3) is called a linear array or vector
-
+```
+v = (v1,v2,v3) is called a linear array or vector
+```
 ### Any triples of points: P(p1,p2,p3) and Q(q1,q2,q3) in |R³ define the located vector from P to Q, written as vector PQ. 
 
 ### Vector PQ = Q – P = [ q1 – p1, q2 – p2, q3 - p3]
@@ -34,7 +34,7 @@ Neither always the developers of programming language use the same symbols as is
 
 In Python programming language , **an list data structure** are represented to **a pair square bracket [ ]**.and **an tuple data structure** are represented to **a pair square parentheses ( )**. Python program may use a *list or tuple data structure* to represent a vector. Was use the tuple data structure only to represent the coordinates of the vertices points: P, Q, and R of triangles and too the coordinates of the vertices points: P, Q, R and S of parallelogram, parallelepiped and tetrahedron into code of the functions into modules. 
 
-### The main point of the mathematics developed into the functions of the VectorModDev.py and VectorModule2Dim.py modules was use *definions* and *theorems* that are:
+### The main point of the mathematics developed into the functions of the VectorModDev.py and VectorModule2Dim.py modules was use *definitions* and *theorems* that are:
 
 #### 1. Operations (Addition and Subtraction) on Vectors in Plane and in Space.
 #### 2. Given two points: P and Q in Plane and Space get to theorem the vector that represent the displacement, distance, midpoint between two points.
