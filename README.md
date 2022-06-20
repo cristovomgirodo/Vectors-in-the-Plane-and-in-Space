@@ -32,7 +32,7 @@ v = (v1,v2,v3) is called a linear array or vector
 
 Neither always the developers of programming language use the same symbols as is represented in  mathematics when create new programming languages. The *reader* more interested in subject will can acess the best books of **Calculus, Linear Algebra, and Analytic Geometry of the higher education**. 
 
-In Python programming language , **an list data structure** are represented to **a pair square bracket [ ]**.and **an tuple data structure** are represented to **a pair square parentheses ( )**. Python program may use a *list or tuple data structure* to represent a vector. Was use the tuple data structure only to represent the coordinates of the vertices points: P, Q, and R of triangles and too the coordinates of the vertices points: P, Q, R and S of parallelogram, parallelepiped and tetrahedron into code of the functions into modules. 
+In Python programming language , **an list data structure** are represented to **a pair square bracket [ ]**.and **an tuple data structure** are represented to **a pair square parentheses ( )**. Python program may use a *list or tuple data structure* to represent a vector. Was use the tuple data structure only to represent the coordinates of the vertexes points: P, Q, and R of triangles and too the coordinates of the vertexes points: P, Q, R and S of parallelogram, parallelepiped and tetrahedron into code of the functions into modules. 
 
 ### The main point of the mathematics developed into the functions of the VectorModDev.py and VectorModule2Dim.py modules was use *definitions* and *theorems* that are:
 
@@ -52,7 +52,7 @@ In Python programming language , **an list data structure** are represented to *
 
 #### When developed the VectorModDev.py and VectorModule2Dim.py modules, almost all the functions developed was use the Vectorial Algebra in a list data structure to reduce the size of the functions. As the Python lists are well powerful the runvectors2dim.py and runtoolsvectors.py programs  will process any calculus using the inner functions of the previous modules. *The functions: vectornumber(), introduce(), instruction1(), instruction2() and ResultantVector()* are the only that *was not use* in the *list data structure*.
  
-The **runtoolsvectors.py and runvectors2dim.py programs** was developed to the programmers as also to teachers and  students of the higher education to  find speed answer when will solve the vectors problems. In **codes** of the **VectorModDev.py and VectorModule2Dim.py modules**, was do represent the **vertices points: P, Q, R and S** and the **vectors: A, B, and C** of the following manner:
+The **runtoolsvectors.py and runvectors2dim.py programs** was developed to the programmers as also to teachers and  students of the higher education to  find speed answer when will solve the vectors problems. In **codes** of the **VectorModDev.py and VectorModule2Dim.py modules**, was do represent the **vertexes points: P, Q, R and S** and the **vectors: A, B, and C** of the following manner:
 
 ### Point P, Q, R, and S in the Plane: 
 
@@ -85,7 +85,7 @@ The **runtoolsvectors.py and runvectors2dim.py programs** was developed to the p
 ### To any values attribute to the [Components]: xA, yA,z A, xB, yB, zB, xC, yC, zC by users.
 
 
-**[Warning-2]** – Was standardize **the letters: A, B, and C to the vectors** and **P, Q, R, and S to points of the vertices of triangles, parallelogram and parallelepiped into the code of the functions** of the  **VectorModDev.py and VectorModule2Dim.py modules**. 
+**[Warning-2]** – Was standardize **the letters: A, B, and C to the vectors** and **P, Q, R, and S to points of the vertexes of triangles, parallelogram and parallelepiped into the code of the functions** of the  **VectorModDev.py and VectorModule2Dim.py modules**. 
 
 All the development of the **functions** inside of the **VectorModDev.py and VectorModule2Dim.py modules** are isolate because of the use of **Vectors in the Plane and Space**. The *files:* **instruction1User.pdf and instruction2User.pdf** have all the **instructions** necessary of as use the **runvectors2dim.py and runtoolsvectors.py program** with *examples*. Are *examples selected and eases of use*. The **runtoolsvectors.py and runvectors2dim.py programs** too have **inner instructions** showed when are be used. *All the users* too will duty follow this instructions showed into as display. All *theory* with the **definitions and theorems of vectors** was used in development of the **functions** inside of the **VectorModDev.py and VectorModule2Dim.py modules**.
 
