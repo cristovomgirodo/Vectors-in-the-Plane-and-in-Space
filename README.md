@@ -68,7 +68,7 @@ The **runtoolsvectors.py and runvectors2dim.py programs** was developed to the p
 ### Point R: R(xR,yR,zR)
 ### Point S: S(xS,yS,zS)
 
-### To any values attribute to the [Coordinates]: xP,yP,zP, xQ,yQ,zQ, xR,yR,zR, xS,yS,zS by users.
+### To any values attribute to the [Coordinates]: xP, yP, zP, xQ, yQ, zQ, xR, yR, zR, xS, yS, zS by users.
 
 ### The vectors: A, B, and C in the Plane:
 
@@ -82,7 +82,7 @@ The **runtoolsvectors.py and runvectors2dim.py programs** was developed to the p
 ### [vectorB]: vectorB[xB,yB,zB]
 ### [vectorC]: vectorC[xC,yC,zC]
 
-### To any values attribute to the [Components]: xA, yA,z A, xB, yB, zB, xC, yC, zC by users.
+### To any values attribute to the [Components]: xA, yA, zA, xB, yB, zB, xC, yC, zC by users.
 
 
 **[Warning-2]** – Was standardize **the letters: A, B, and C to the vectors** and **P, Q, R, and S to points of the vertexes of triangles, parallelogram and parallelepiped into the code of the functions** of the  **VectorModDev.py and VectorModule2Dim.py modules**. 
