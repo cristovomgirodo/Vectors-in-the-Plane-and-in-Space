@@ -105,6 +105,11 @@ The files: AlgorithmATVUDE.pdf, instructions1User.pdf, runvectors2dim.py, Vector
 #### [Warning-5]:
 The files: instruction1User.pdf and  instruction2User.pdf was do update with new name as: instruction1UserUpdate.pdf and instruction2UserUpdate.pdf.
 
+#### [Warning-6]:
+Before of present the [new version: 1.2] of the files: **instructions1-v1.2_User.pdf**, **instructions2-v1.2_User.pdf**, **runtoolsvectors.py**, **runvectors2dim.py**, **VectorModDev.py**, and **VectorModule2Dim.py** will be necessary *delete* the followings files: instructions1User.pdf, instructions2User.pdf, instructions1UserUpdate.pdf, instructions2UserUpdate.pdf because of *errors*. All the contents was *fixed and put into as files*: **instructions1-v1.2_User.pdf** and **instructions2-v1.2_User.pdf**. After will put *the news tutorials files*: instructions1-v1.2_User.pdf and instructions2-v1.2_User.pdf into as repository. Too will be necessary *delete* the files: runtoolsvectors.py, runvectors2dim.py, VectorModDev.py, and VectorModule2Dim.py because of change into as codes.  
+
+Welcome the all users of the GitHub to use the **new version: 1.2** of the news files: **instructions1-v1.2_User.pdf**, **instructions2-v1.2_User.pdf**, **runtoolsvectors.py**, **runvectors2dim.py**, **VectorModDev.py**, and **VectorModule2Dim.py**
+
 ###### Cristovom A. Girodo ( Was receive the higher graduation in mathematics in the F.F.C.L. “Oswaldo Cruz”).
 
 
