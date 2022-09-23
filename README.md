@@ -111,7 +111,7 @@ Before of present the [new version: 1.2] of the files: **instructions1-v1.2_User
 Welcome the all users of the GitHub to use the **new version: 1.2** of the news files: **instructions1-v1.2_User.pdf**, **instructions2-v1.2_User.pdf**, **runtoolsvectors.py**, **runvectors2dim.py**, **VectorModDev.py**, and **VectorModule2Dim.py**
 
 #### [Warning-7]: 
-The files: **instructions1-v1.2_User.pdf**, **instructions2-v1.2_User.pdf** was update because of *small errors*.
+The files: **instructions1-v1.2_User.pdf** and **instructions2-v1.2_User.pdf** was update because of *small errors*.
 
 ###### Cristovom A. Girodo ( Was receive the higher graduation in mathematics in the F.F.C.L. “Oswaldo Cruz”).
 
