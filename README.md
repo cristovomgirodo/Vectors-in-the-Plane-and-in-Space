@@ -116,14 +116,11 @@ The files: **instructions1-v1.2_User.pdf** and **instructions2-v1.2_User.pdf** w
 #### [Warning-8]:
 Before of present the new [version: 1.3] of the files: **instructions1-v1.3_User.pdf**,  and **VectorModule2Dim.py** will be necessary *delete* the followings files: **instructions1.2_User.pdf**, **AlgorithmATVUDE.pdf**, **runvectors2dim.py**, and **VectorModule2Dim.py** because of upgrade of the [code] in the files: **runvectors2dim.py**, and **VectorModule2Dim.py**. The file: **AlgorithmATVUDE.pdf** was set to a only page. The name file: **UpdateVersion1.1.md** was renamed as **Changelog.md** to standard all the upgrade. After will put *the news files*: **AlgorithmATVUDE.pdf**, **Changelog.md**, **instructions1-v1.3_User.pdf**, **runvectors2dim.py** and **VectorModule2Dim.py** inside as repository.
 ```
-=======
 [Note]:
-=======
 ```
 The **instructions2-v1.2_User.pdf** file, **runtoolsvectors.py** program as too the **VectorModDev.py** module not been upgrades.
-```
+
 Welcome the all users of the *GitHub* to use the new **[version: 1.3]** using the files: **AlgorithmATVUDE.pdf**, **Changelog.md**, **instructions1-v1.3_User.pdf**, **runvectors2dim.py**, and **VectorModule2Dim.py**
-```
 
 ###### Cristovom A. Girodo ( Was receive the higher graduation in mathematics in the F.F.C.L. “Oswaldo Cruz”).
 
