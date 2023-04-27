@@ -1,10 +1,10 @@
-#######################################################
+#######################################################################
 #
 # The VectorModDev.py module
 # Developed by Cristovom A. Girodo
-# Date: 20220723 -- Stable Version: 1.2
+# Date: 20230427 -- Stable Version: 1.3
 #
-#######################################################
+#######################################################################
 
 import math
 
@@ -61,6 +61,8 @@ def pointCoord():
             point.append(w)
             return point
 
+# The coordinatesPoint(number) function was refactoring
+
 def coordinatesPoint(number):
     print('\n\t-- Enter the (coordinates: xP, yP, zP) of the (Point P)? ')
     pointP = pointCoord()
@@ -69,10 +71,62 @@ def coordinatesPoint(number):
 
     if number == 2:
         return pointP, pointQ
+        
     elif number == 3:
+	# Enter the coordinates of the vertices points: P, Q, and R of the triangle PQR
         print('\t-- Provide the (coordinates: xR, yR, zR) of the (Point R)? ')
         pointR = pointCoord()
         return pointP, pointQ, pointR
+        
+    elif number == 4:
+        # Enter the coordinates of the vertices points: P, Q, R, and S of the Parallelogram(PQRS).
+        print('\t-- Provide the (coordinates: xR, yR, zR) of the (Point R)? ')
+        pointR = pointCoord()
+        print('\t-- Give the [Coordinates: xS, yS, zS] of the [point S]? ')
+        pointS = pointCoord()
+
+        xP=xQ=xR=xS=yP=yQ=yR=yS=zP=zQ=zR=zS = 0
+        for coord in range(0,3):
+            if coord == 0:
+                xP = pointP[coord]
+                xQ = pointQ[coord]
+                xR = pointR[coord]
+                xS = pointS[coord]
+            elif coord == 1:
+                yP = pointP[coord]
+                yQ = pointQ[coord]
+                yR = pointR[coord]
+                yS = pointS[coord]
+            elif coord == 2:
+                zP = pointP[coord]
+                zQ = pointQ[coord]
+                zR = pointR[coord]
+                zS = pointS[coord]
+                
+        PointP = (xP,yP,zP)
+        print('\n\t- The (Point P): P',PointP)
+        PointQ = (xQ,yQ,zQ)
+        print('\t- The (Point Q): Q',PointQ)
+        PointR = (xR,yR,zR)
+        print('\t- The (Point R): R',PointR)
+        PointS = (xS,yS,zS)
+        print('\t- The (Point S): S',PointS)
+       
+        vectorPQ = []
+        vectorPS = []
+               
+        for q in range (0,3):
+            coordPQ = pointQ[q] - pointP[q]
+            vectorPQ.append(coordPQ)
+            coordPS = pointS[q] - pointP[q]
+            vectorPS.append(coordPS)
+                
+        vectA = vectorPQ
+        vectB = vectorPS       
+        
+        print('\t- The [vectorA]=vectorPQ',vectorPQ)
+        print('\t- The [vectorB]=vectorPS',vectorPS,'\n')
+        return vectA, vectB
     
 def compVector():
 
@@ -258,7 +312,7 @@ def findTwoOrThreeVectors(number):
     
     elif number == 4:
         # Enter the coordinates of the vertices points: P, Q, R, and S
-        varint = 3 
+        varint = 3
         pointP, pointQ, pointR = coordinatesPoint(varint)
         print('\t-- Give the [Coordinates: xS, yS, zS] of the [point S]? ')
         pointS = pointCoord()
@@ -515,7 +569,7 @@ def dotProduct(number):
         return normA, normB, dot_product, cossineTheta
         
 def crossProduct(number):
-    # This function crossProduct(number) after enter all the [coomponents]: a1, a2, a3, b1, b2, b3 of the vectorA and  
+	# This function crossProduct(number) after enter all the [coomponents]: a1, a2, a3, b1, b2, b3 of the vectorA and  
     # vectorB or the [components] of the [vectors] represented by vectorA = vectorPQ, and vectorB = vectorPR, will find 
     # the Cross Product given to:
     #
@@ -528,62 +582,92 @@ def crossProduct(number):
     #  will get the value of the SineTheta given to [ sineTheta = normAxB / normproduct ].
     # 
     
-    if number == 1 or number == 2 or number == 4:
-        # Enter the [components] of the vectors: A an B
-        varint = 2
-        vectorA, vectorB = componentsVector(varint)
-        print('\n\t-- The [vectorA]: vectorA',vectorA)
-        print('\t-- The [vectorB]: vectorB',vectorB, '\n')
-        
-    elif number == 3:
-        # Enter the [coordinates] of the givens points: P, Q, and R
-        varint = 3
-        vectorA, vectorB = findTwoOrThreeVectors(varint)
+	if number == 1 or number == 2 or number == 4:
+		# Enter the [components] of the vectors: A an B
+		varint = 2
+		vectorA, vectorB = componentsVector(varint)
+		print('\n\t-- The [vectorA]: vectorA',vectorA)
+		print('\t-- The [vectorB]: vectorB',vectorB, '\n')
+		
+	elif number == 3:
+		# Enter the [coordinates] of the given points: P, Q, and R of the triangle(PQR).
+		varint = 3
+		vectorA, vectorB = findTwoOrThreeVectors(varint)
+		
+	elif number == 5:
+		# Provider the [coordinates] of the givens points: P, Q, R, and S of the Parallelogram(PQRS).
+		varint = 4
+		vectorA, vectorB = coordinatesPoint(varint)
+		
+	a1 = vectorA[0]
+	a2 = vectorA[1]
+	a3 = vectorA[2]
+	normA = ( magnitudeTriVector(a1, a2, a3) )
+	b1 = vectorB[0]
+	b2 = vectorB[1]
+	b3 = vectorB[2]
+	normB = ( magnitudeTriVector(b1, b2, b3) )
+			
+	vectAxB = []
+	Cx = ( ( vectorA[1] * vectorB[2] ) - ( vectorA[2] * vectorB[1] ) )
+	vectAxB.append(Cx)
+	Cy = ( ( vectorA[2] * vectorB[0] ) - ( vectorA[0] * vectorB[2] ) )
+	vectAxB.append(Cy)
+	Cz = ( ( vectorA[0] * vectorB[1] ) - ( vectorA[1] * vectorB[0] ) )
+	vectAxB.append(Cz)
+	
+	normAxB = ( magnitudeTriVector(Cx, Cy, Cz) )
+	normproduct = normA * normB
+	sineTheta = normAxB / normproduct
+	
+	if number == 1:
+		# find the area(A) trianglePQR
+		answer()
+		areaTriangle = abs( magnitudeTriVector(Cx, Cy, Cz) ) / 2
+		return vectAxB, areaTriangle
+		
+	elif number == 2:
+		answer()
+		return normA, normB, normAxB, sineTheta
+		
+	elif number == 3:
+		# find the area(A) trianglePQR
+		answer()
+		areaTriangle = abs( magnitudeTriVector(Cx, Cy, Cz) ) / 2  
+		return vectAxB, areaTriangle
+		
+	elif number == 4 or number == 5:
+		# find the height(h), area(A), and the angle Theta of the parallelogram PQRS
+		answer()
+		heightParallelog = abs(  normAxB / normA )
+		angle_radians = math.asin(sineTheta)
+		angleTheta_degrees = math.degrees(angle_radians)
+		return heightParallelog, normAxB, angleTheta_degrees
+		
+# new coordOrcomp() function developed to solve the parallelogram PQRS
 
-    vectAxB = []
-    Cx = ( ( vectorA[1] * vectorB[2] ) - ( vectorA[2] * vectorB[1] ) )
-    vectAxB.append(Cx)
-    Cy = ( ( vectorA[2] * vectorB[0] ) - ( vectorA[0] * vectorB[2] ) )
-    vectAxB.append(Cy)
-    Cz = ( ( vectorA[0] * vectorB[1] ) - ( vectorA[1] * vectorB[0] ) )
-    vectAxB.append(Cz)
-    
-    if number == 1:
-        # find the area(A) trianglePQR
-        answer()
-        areaTriangle = abs( magnitudeTriVector(Cx, Cy, Cz) ) / 2 
-        return vectAxB, areaTriangle
-    
-    elif number == 2:
-        answer()
-        a1 = vectorA[0]
-        a2 = vectorA[1]
-        a3 = vectorA[2]
-        normA = ( magnitudeTriVector(a1, a2, a3) )
-        b1 = vectorB[0]
-        b2 = vectorB[1]
-        b3 = vectorB[2]
-        normB = ( magnitudeTriVector(b1, b2, b3) )
-        normAxB = ( magnitudeTriVector(Cx, Cy, Cz) )
-        normproduct = normA * normB
-        sineTheta = normAxB / normproduct
-        return normA, normB, normAxB, sineTheta
-    
-    elif number == 3:
-        # find the area(A) trianglePQR
-        areaTriangle = abs( magnitudeTriVector(Cx, Cy, Cz) ) / 2  
-        return vectAxB, areaTriangle
-
-    elif number == 4 :
-        # find the area(A) parallelogramPQRS
-        answer()
-        normAxB = abs( magnitudeTriVector(Cx, Cy, Cz) )
-        a1 = vectorA[0]
-        a2 = vectorA[1]
-        a3 = vectorA[2]
-        normA = ( magnitudeTriVector(a1, a2, a3) )
-        heightParallelog = abs(  normAxB / normA )
-        return heightParallelog, normAxB
+def coordOrcomp():
+	print('\n\t**[ Instructions to enter the [Coordinates] or [Components] of the Parallelogram PQRS ]**')
+	print('\n\t- To enter the [Coordinates] of the points: P, Q, R, and S key [1].')
+	print('\t- For the [Components] of the adjacent Vectors: [vectorA]=vectorPQ e')
+	print('\t- [vectorB]=vectorPS key [2],\n')
+	
+	option = vectornumber()
+	
+	if option == 1:
+		print('\n\t\t**[COORDINATES OF THE POINTS: P, Q, R, and S]**')
+		number = 5
+		heightParallelog, normAxB, angleTheta_degrees = crossProduct(number)
+			
+	elif option == 2:
+		print('\n\t\t**[COMPONENTS OF THE ADJACENT VECTORS: A and B]**')
+		number = 4
+		heightParallelog, normAxB, angleTheta_degrees = crossProduct(number)
+				
+	else:
+		print('\n\t**[ You no type: [1] or [2]. Run again -- Ok! ]**\n')
+		
+	return heightParallelog, normAxB, angleTheta_degrees
     
 def mixedProduct(number):
     #
@@ -600,6 +684,7 @@ def mixedProduct(number):
 
     if number == 3:
         # Enter the [components] of the vectors
+        print('\n\t\t**[COMPONENTS OF THE VECTORS: A, B and C]**')
         vectorA, vectorB, vectorC = componentsVector(number)
         answer()
         print('\n\t-- The [vectorA]: vectorA',vectorA)
