@@ -87,7 +87,7 @@ The **runtoolsvectors.py and runvectors2dim.py programs** was developed to the p
 
 **[Warning-2]** – Was standardize **the letters: A, B, and C to the vectors** and **P, Q, R, and S to points of the vertexes of triangles, parallelogram and parallelepiped into the code of the functions** of the  **VectorModDev.py and VectorModule2Dim.py modules**. 
 
-All the development of the **functions** inside of the **VectorModDev.py and VectorModule2Dim.py modules** are isolate because of the use of **Vectors in the Plane and Space**. The *files:* **instruction1User.pdf and instruction2User.pdf** have all the **instructions** necessary of as use the **runvectors2dim.py and runtoolsvectors.py program** with *examples*. Are *examples selected and eases of use*. The **runtoolsvectors.py and runvectors2dim.py programs** too have **inner instructions** showed when are be used. *All the users* too will duty follow this instructions showed into as display. All *theory* with the **definitions and theorems of vectors** was used in development of the **functions** inside of the **VectorModDev.py and VectorModule2Dim.py modules**.
+All the development of the **functions** inside of the **VectorModDev.py and VectorModule2Dim.py modules** are isolate because of the use of **Vectors in the Plane and Space**. The *files:* **instruction1User.pdf and instruction2User.pdf** have all the **instructions** necessary of as use the **runvectors2dim.py and runtoolsvectors.py program** with *examples*. Are *examples selected and eases of use*. The **runtoolsvectors.py and runvectors2dim.py programs** too have **inner instructions** showed when are be used. *All the users* too will duty follow this instructions showed into as display. All *theory* with the **definitions and theorems of vectors** was be used in development of the **functions** inside of the **VectorModDev.py and VectorModule2Dim.py modules**.
 
 #### The ResultantVector() function will find the Resultant(|R) Vector by means of the Decomposion Components. Any user that enter 2 or 3 or 4 or . . . or any number the vectors in polar form will get the Resultant(|R) Vector of propose problem. The ResultantVector() function was created to solve mechanics problems using vectors to the beginner students of the higher education  of  physics, mathematics, chemistry as too engineering. Was have origin when was buy and learned programm the powerful HP 32 SII RPN SCIENTIFIC Calculator. My repository have an *free copy* of the ATVUDE program to all know as too use. The ResultantVector() function is well more powerful than the ATVUDE program. The ResultantVector() function reside only in the VectorModule2Dim.py module. To use this function key [10] after run the runvectors2dim.py program.
 
@@ -103,25 +103,28 @@ The **runtoolsvectors.py and runvectors2dim.py programs** *will not present no g
 The files: AlgorithmATVUDE.pdf, instructions1User.pdf, runvectors2dim.py, VectorModule2Dim.py, instructions2User.pdf, runtoolsvectors.py, and VectorModDev.py already was copy of the Vectors2Dim and Vectors3Dim directories in my computer to the my repository in the GitHub. I'm sorry the all.
 
 #### [Warning-5]:
-The files: instruction1User.pdf and  instruction2User.pdf was do update with new name as: instruction1UserUpdate.pdf and instruction2UserUpdate.pdf.
+The files: instruction1User.pdf and instruction2User.pdf was do update with rename as: instruction1UserUpdate.pdf and instruction2UserUpdate.pdf.
 
 #### [Warning-6]:
-Before of present the [new version: 1.2] of the files: **instructions1-v1.2_User.pdf**, **instructions2-v1.2_User.pdf**, **runtoolsvectors.py**, **runvectors2dim.py**, **VectorModDev.py**, and **VectorModule2Dim.py** will be necessary *delete* the followings files: instructions1User.pdf, instructions2User.pdf, instructions1UserUpdate.pdf, instructions2UserUpdate.pdf because of *errors*. All the contents was *fixed and put into as files*: **instructions1-v1.2_User.pdf** and **instructions2-v1.2_User.pdf**. After will put *the news tutorials files*: instructions1-v1.2_User.pdf and instructions2-v1.2_User.pdf into as repository. Too will be necessary *delete* the files: runtoolsvectors.py, runvectors2dim.py, VectorModDev.py, and VectorModule2Dim.py because of change into as codes.  
+Before of present the [new version: 1.2] of the files: **instructions1-v1.2_User.pdf**, **instructions2-v1.2_User.pdf**, **runtoolsvectors.py**, **runvectors2dim.py**, **VectorModDev.py**, and **VectorModule2Dim.py** will be necessary *delete* the followings files: instructions1User.pdf, instructions2User.pdf, instructions1UserUpdate.pdf, instructions2UserUpdate.pdf because of *errors*. All the **contents** was *fixed and put into as
+**new** files*: **instructions1-v1.2_User.pdf** and **instructions2-v1.2_User.pdf**. After will put *the news tutorials files*: instructions1-v1.2_User.pdf
+and instructions2-v1.2_User.pdf into as repository. Too will be necessary *delete* the files: runtoolsvectors.py, runvectors2dim.py, VectorModDev.py, and VectorModule2Dim.py because of change into as codes.  
 
-Welcome the all users of the GitHub to use the **new version: 1.2** of the news files: **instructions1-v1.2_User.pdf**, **instructions2-v1.2_User.pdf**, **runtoolsvectors.py**, **runvectors2dim.py**, **VectorModDev.py**, and **VectorModule2Dim.py**
+Welcome the all users of the GitHub to use the **new version: 1.2** of the new files: **instructions1-v1.2_User.pdf**, **instructions2-v1.2_User.pdf**, **runtoolsvectors.py**, **runvectors2dim.py**, **VectorModDev.py**, and **VectorModule2Dim.py**
 
 #### [Warning-7]: 
 The files: **instructions1-v1.2_User.pdf** and **instructions2-v1.2_User.pdf** was update because of *small errors*.
 
 #### [Warning-8]:
 Before of present the new [version: 1.3] of the files: **instructions1-v1.3_User.pdf**,  and **VectorModule2Dim.py** will be necessary *delete* the followings files: **instructions1.2_User.pdf**, **AlgorithmATVUDE.pdf**, **runvectors2dim.py**, and **VectorModule2Dim.py** because of upgrade of the [code] in the files: **runvectors2dim.py**, and **VectorModule2Dim.py**. The file: **AlgorithmATVUDE.pdf** was set to a only page. The name file: **UpdateVersion1.1.md** was renamed as **Changelog.md** to standard all the upgrade. After will put *the news files*: **AlgorithmATVUDE.pdf**, **Changelog.md**, **instructions1-v1.3_User.pdf**, **runvectors2dim.py** and **VectorModule2Dim.py** inside as repository.
-```
-[Note]:
-```
-The **instructions2-v1.2_User.pdf** file, **runtoolsvectors.py** program as too the **VectorModDev.py** module not been upgrades.
 
-Welcome the all users of the *GitHub* to use the new **[version: 1.3]** using the files: **AlgorithmATVUDE.pdf**, **Changelog.md**, **instructions1-v1.3_User.pdf**, **runvectors2dim.py**, and **VectorModule2Dim.py**
+#### [Note]:
+
+The **instructions2-v1.2_User.pdf** file, **runtoolsvectors.py** program as too the **VectorModDev.py** module *was not upgrades* still.
+
+Welcome the all users of the *GitHub* to use the new **[version: 1.3]** of the files: **AlgorithmATVUDE.pdf**, **Changelog.md**, **instructions1-v1.3_User.pdf**, **runvectors2dim.py**, and **VectorModule2Dim.py**
+
+#### [Warning-9]:
+Now present the new [version: 1.3] that will update the files: **README.md**, **Changelog.md**, **instructions2-v1.2_User.pdf** file, **runtoolsvectors.py** program as too the **VectorModDev.py** module. The new update files will **instructions2-v1.3_User.pdf**, **runtoolsvectors.py** program as too the **VectorModDev.py** module. The only *file renamed* was be **instructions2-v1.3_User.pdf**. The **Changelog.md** file have informations of all the changes in code of this update files. The *repository* now will have the **runvectors2dim.py** and **runtoolsvectors.py** *programs*, **VectorModDev.py** and **VectorModule2Dim.py** *module* as too the **instructions1-v1.3_User.pdf** and **instructions2-v1.3_User.pdf** *tutorials* in the same *version: 1.3*.
 
 ###### Cristovom A. Girodo ( Was receive the higher graduation in mathematics in the F.F.C.L. “Oswaldo Cruz”).
-
-
