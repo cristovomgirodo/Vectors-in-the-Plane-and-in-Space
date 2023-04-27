@@ -42,7 +42,6 @@ print('  multiplyed by scalars: [coeffic1 and coeffic2] key [16]\n')
       
 from VectorModDev import * 
 	
-
 print('\n\t[§] Select an previous [option] that will used--Ok!\n')
 numb = vectornumber()
 
