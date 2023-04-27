@@ -1,10 +1,6 @@
 
-+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
-
 The new **[version: 1.3]** of the files: **instructions2-v1.3_User.pdf**. Was refactoring the following functions: **coordinatesPoint(number)**, **crossProduct(number)**, **mixedProduct(number)**, and the **runtoolsvectors.py** program as too the **VectorModDev.py** module. Was created a new **coordOrcomp()** function to *solve* the **Parallelogram PQRS** using **[vectors]**: A and B *or* with given **points**: P, Q, R, and S.
  
-+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
-
 The new **[version: 1.3]** of the files: **instructions1-v1.3_User.pdf**, **runvectors2dim.py**, and **VectorModule2Dim.py** been necessary to upgrade of the **ResultantVector() function** inside of the **VectorModule2Dim.py** module. The [introduce()] function been used to datas enter: angle and radius to any vector until the last [version: 1.2]; but this function let set values: [negative] or [zero] or [positive] using float numbers to angle as too radius. Get **the components: Vx *and* Vy** with values: **[negative] or [zero] to the [radius] of any [vector]** is a [error]** because of find the components: Vx and Vy with [errors]. To [solve] this *serious problem* developed the new **[radiusenter()] function** to **datas enter [positive] only to the [radius] of any [vector]**.
 
 The [code] between the lines: 77 until 85 in the last [version: 1.2] of the **VectorModule2Dim.py** module been *[deleted]*. The new **[radiusenter()] function** will do all the work in the new [version: 1.3].
