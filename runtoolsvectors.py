@@ -49,7 +49,7 @@ if numb == 1:
     print('\t   SPACE]**\n')
     varint = 1
     vectorAB, dotproduct = dotProduct(varint)
-    print('\t-- The list of the terms product:', format((vectorAB),'<10.2f'))
+    print('\t-- The list of the terms product:', vectorAB)	
     print('\n\t- The [Dot product]: [a*b] of two vectors:', format((dotproduct),'<10.2f'),'\n')       
    
 elif numb == 2:
