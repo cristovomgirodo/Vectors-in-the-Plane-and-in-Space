@@ -46,11 +46,12 @@ print('\n\t[§] Select an previous [option] that will used--Ok!\n')
 numb = vectornumber()
 
 if numb == 1:
+    print('\n\t**[FIND THE [DOT PRODUCT] OF [TWO VECTORS] IN THE TRI-DIMENSIONAL(XYZ)')
     print('\t   SPACE]**\n')
     varint = 1
     vectorAB, dotproduct = dotProduct(varint)
-    print('\t-- The list of the terms product:', vectorAB)	
-    print('\n\t- The [Dot product]: [a*b] of two vectors:', format((dotproduct),'<10.2f'),'\n')       
+    print('\t-- The list of the terms product:', vectorAB)
+    print('\n\t- The [Dot product]: [a*b] of two vectors:', format((dotproduct),'<10.2f'),'\n') 
    
 elif numb == 2:
     print('\n\t**[DETERMINE THE [CROSS PRODUCT(AxB) OF [TWO VECTORS: A AND B] AND FIND ')
