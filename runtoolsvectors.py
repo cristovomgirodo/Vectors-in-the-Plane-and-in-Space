@@ -8,8 +8,8 @@
 
 import math
 
-print('\n\n\t    **[ WELCOME IN USING THE [RUNTOOLSVECTORS.PY] PROGRAM ]**') 
-print('\t  **[ TO [SOLVE] VARIOUS PROBLEMS OF [VECTORS] in the [SPACE] ]**')
+print('\n\n\t   **[ WELCOME IN USING THE [RUNTOOLSVECTORS.PY] PROGRAM ]**') 
+print('\t   **[ TO [SOLVE] VARIOUS PROBLEMS OF [VECTORS] IN THE [SPACE] ]**')
 print('\t\t\t--[Version: 1.3 -- Stable]--')
 print('\n\n\t**[INSTRUCTIONS OF USE]**')
 print('\n- To find the [value] of the [Dot Product] of two vectors key [1]')
