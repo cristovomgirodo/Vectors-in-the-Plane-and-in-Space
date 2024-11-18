@@ -127,4 +127,7 @@ Welcome the all users of the *GitHub* to use the new **[version: 1.3]** of the f
 #### [Warning-9]:
 Now present the new [version: 1.3] that will update the files: **README.md**, **Changelog.md**, **instructions2-v1.2_User.pdf** file, **runtoolsvectors.py** program as too the **VectorModDev.py** module. The new update files will **instructions2-v1.3_User.pdf**, **runtoolsvectors.py** program as too the **VectorModDev.py** module. The only *file renamed* was be **instructions2-v1.3_User.pdf**. The **Changelog.md** file have informations of all the changes in code of this update files. The *repository* now will have the **runvectors2dim.py** and **runtoolsvectors.py** *programs*, **VectorModDev.py** and **VectorModule2Dim.py** *module* as too the **instructions1-v1.3_User.pdf** and **instructions2-v1.3_User.pdf** *tutorials* in the same *version: 1.3*.
 
-###### Cristovom A. Girodo ( Was receive the higher graduation in mathematics in the F.F.C.L. “Oswaldo Cruz”).
+#### [Warning-10]: 
+Because of the incomplete code in the **VectorModule2Dim.py** module this generate error result then was necessary refactor the new lines: 414-433 inside of **VectorModule2Dim.py** module file. The **instructions1-v1.3_User.pdf** file too was repair to use of all users. The **runvectors2dim.py** file is Ok!
+
+###### Cristovom A. Girodo ( Earned the higher education degree in mathematics from the F.F.C.L.“Oswaldo Cruz” ).
