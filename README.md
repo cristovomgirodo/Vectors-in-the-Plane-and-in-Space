@@ -141,8 +141,8 @@ Welcome the all in GitHub to know the release of the new [version: 2.0] of the *
 ####  4. Find the [angle] between [two vectors] in |R² Plane. 
 ####  5. Calculate the [value] of the [CossineTheta] between the [two vectors]: A and B.
 ####  6. Find the three sides and [Inner Angles: ALPHA, BETA, and GAMA] of the [Triangle(PQR)] with the [coordinates] of the [points: P(xP,yP), Q(xQ,yQ), and R(xR,yR)]. 
-####  7. Determine the following [Middle Points]: K(xK,yK), L(xL,yL), M(xM,yM)] and N(xN,yN)] between [ points: P(xP,yP), Q(xQ,yQ), R(xR,yR), and S(xS,yS) ] or in the sides: PQ,
-####     PR, and QR of a Triangle(PQR).
+####  7. Determine the following [Middle Points]: K(xK,yK), L(xL,yL), M(xM,yM)] and N(xN,yN)] between [ points: P(xP,yP), Q(xQ,yQ), R(xR,yR), and S(xS,yS) ] or 
+####     in the sides: PQ, PR, and QR of a Triangle(PQR).
 ####  8. Get the [Addition and Subtraction] of [Two Vectors: A and B].
 ####  9. Calculate the [Resultant(|R) Vector].
 #### 10. Find the [VectorA and lenght|A|] with the [coordinates] of the [points: P(xP,yP), and Q(xQ,yQ)]
@@ -152,8 +152,8 @@ Welcome the all in GitHub to know the release of the new [version: 2.0] of the *
 #### 12. Determine the [Medianas: PM, QL, and RK] of the triangle(PQR).
 #### 13. Find the [Centroid: G(xG, yG)] of the triangle(PQR).
 #### 14. Calculate the [ Vertices: P(xP.yP), Q(xQ,yQ), and R(xR,yR) ] of the triangle(PQR) with the [Coordinates] given of the [ Middle points: K(xK,yK), L(xL,yL), and M(xM,yM) ]. 
-#### 15. Get the [Coordinates] of any a of the [ Points: D(xD,yD) or E(xE,yE), or F(xF,yF) ] that are meeted with the [bisectrixs: PD or QE or RF] in the sides: QR or PR or PQ of  
-####     a Triangle(PQR).
+#### 15. Get the [Coordinates] of any a of the [ Points: D(xD,yD) or E(xE,yE), or F(xF,yF) ] that are meeted with the [bisectrixs: PD or QE or RF] in the 
+####     sides: QR or PR or PQ of a Triangle(PQR).
 #### 16. Determine any a of the [Inner bisectrixs: PD or QE or RF] of a Triangle(PQR). 
 
 In any *Command Prompt Windows* or *Terminal Linux* use *only* the **runVector2d.py program** file to run the new **[version: 2.0]** of the **Vectors2DClassModule.py module**.To more details access the *new instructions* of the **instructions1-v2.0_User.pdf** file. In my **repository** will maintain all the files always created. The users will continue using as in the last. The new **instructions1-v2.0_User.pdf** file will have more new *Instructions* and *Examples* because of **Vectors2DClassModule.py module** file have *new* classes with methods in replacement of the functions always created in **VectorModule2Dim.py module** and too have more new **supplementary classes**. 
