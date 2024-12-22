@@ -141,7 +141,8 @@ Welcome the all in GitHub to know the release of the new [version: 2.0] of the *
 ####  4. Find the [angle] between [two vectors] in |R² Plane. 
 ####  5. Calculate the [value] of the [CossineTheta] between the [two vectors]: A and B.
 ####  6. Find the three sides and [Inner Angles: ALPHA, BETA, and GAMA] of the [Triangle(PQR)] with the [coordinates] of the [points: P(xP,yP), Q(xQ,yQ), and R(xR,yR)]. 
-####  7. Determine the following [Middle Points]: K(xK,yK), L(xL,yL), M(xM,yM)] and N(xN,yN)] between [ points: P(xP,yP), Q(xQ,yQ), R(xR,yR), and S(xS,yS) ] or in the sides: PQ,   ####     PR, and QR          of a Triangle(PQR).
+####  7. Determine the following [Middle Points]: K(xK,yK), L(xL,yL), M(xM,yM)] and N(xN,yN)] between [ points: P(xP,yP), Q(xQ,yQ), R(xR,yR), and S(xS,yS) ] or in the sides: PQ,
+####     PR, and QR of a Triangle(PQR).
 ####  8. Get the [Addition and Subtraction] of [Two Vectors: A and B].
 ####  9. Calculate the [Resultant(|R) Vector].
 #### 10. Find the [VectorA and lenght|A|] with the [coordinates] of the [points: P(xP,yP), and Q(xQ,yQ)]
