@@ -6,7 +6,7 @@
 #
 #######################################################################
 
-print('\n\n\t         **[ WELCOME IN USING THE [RUNVECTORS2D.PY] PROGRAM ]**') 
+print('\n\n\t         **[ WELCOME IN USING THE [RUNVECTOR2D.PY] PROGRAM ]**') 
 print('\t    **[ TO [SOLVE] VARIOUS PROBLEMS OF [VECTORS] IN THE [PLANE] ]**')
 print('\t\t\t    --[Version: 2.0 -- Stable]--')
 print('\n\n\t**[INSTRUCTIONS OF USE]**\n')
