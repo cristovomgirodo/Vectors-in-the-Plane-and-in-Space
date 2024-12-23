@@ -131,7 +131,7 @@ Now present the new [version: 1.3] that will update the files: **README.md**, **
 Because of the incomplete code in the **VectorModule2Dim.py** module this generate error result then was necessary refactor the new lines: 414-433 inside of **VectorModule2Dim.py** module file. The **instructions1-v1.3_User.pdf** file too was repair to use of all users. The **runvectors2dim.py** file is Ok!
 
 #### [New Version: 2.0]:
-Welcome the all in GitHub to know the release of the new [version: 2.0] of the **Vectors2DClassModule.py module**, **runVector2d.py program** and the **instructions1-v2.0_User.pdf** files. Inform that will not more possible *update* the old files: *runvectors2dim.py*, and *VectorModule2Dim.py* as in [version: 1.3] because of have been *refactoring* with the *new* **paradigm of the Python object-oriented programming** using only **the class sintax**. The *new files* will not have the same name. The *new code is not the same* because of **class definitions created have new atributes**. Created the following *new files*: **Vectors2DClassModule.py module**, **runVector2d.py program** and the **instructions1-v2.0_User.pdf** file in replacement to the previous files.
+Welcome the all in GitHub to know the release of the new [version: 2.0] of the **Vectors2DClassModule.py module**, **runVector2d.py program** and the **instructions1-v2.0_User.pdf** files. Inform that will not more possible *update* the old files: *runvectors2dim.py*, and *VectorModule2Dim.py* as in [version: 1.3] because of have been *refactoring* with the *new* **paradigm of the Python object-oriented programming** using only **the class sintax**. The *new files* will not have the same name. The *new code is not the same* because of **class definitions created have new attributes**. Created the following *new files*: **Vectors2DClassModule.py module**, **runVector2d.py program** and the **instructions1-v2.0_User.pdf** file in replacement to the previous files.
 
 ### The main point of the mathematics developed into *code* of the classes in Vectors2DClassModule.py module was use *definitions* and *theorems* that are:
 
@@ -141,8 +141,7 @@ Welcome the all in GitHub to know the release of the new [version: 2.0] of the *
 ####  4. Find the [angle] between [two vectors] in |R² Plane. 
 ####  5. Calculate the [value] of the [CossineTheta] between the [two vectors]: A and B.
 ####  6. Find the three sides and [Inner Angles: ALPHA, BETA, and GAMA] of the [Triangle(PQR)] with the [coordinates] of the [points: P(xP,yP), Q(xQ,yQ), and R(xR,yR)]. 
-####  7. Determine the following [Middle Points]: K(xK,yK), L(xL,yL), M(xM,yM)] and N(xN,yN)] between [ points: P(xP,yP), Q(xQ,yQ), R(xR,yR), and S(xS,yS) ] or 
-####     in the sides: PQ, PR, and QR of a Triangle(PQR).
+####  7. Determine the following [Middle Points]: K(xK,yK), L(xL,yL), M(xM,yM)] and N(xN,yN)] between [ points: P(xP,yP), Q(xQ,yQ), R(xR,yR), and S(xS,yS) ] or in the sides: PQ, PR, and QR of a Triangle(PQR).
 ####  8. Get the [Addition and Subtraction] of [Two Vectors: A and B].
 ####  9. Calculate the [Resultant(|R) Vector].
 #### 10. Find the [VectorA and lenght|A|] with the [coordinates] of the [points: P(xP,yP), and Q(xQ,yQ)]
@@ -152,15 +151,14 @@ Welcome the all in GitHub to know the release of the new [version: 2.0] of the *
 #### 12. Determine the [Medianas: PM, QL, and RK] of the triangle(PQR).
 #### 13. Find the [Centroid: G(xG, yG)] of the triangle(PQR).
 #### 14. Calculate the [ Vertices: P(xP.yP), Q(xQ,yQ), and R(xR,yR) ] of the triangle(PQR) with the [Coordinates] given of the [ Middle points: K(xK,yK), L(xL,yL), and M(xM,yM) ]. 
-#### 15. Get the [Coordinates] of any a of the [ Points: D(xD,yD) or E(xE,yE), or F(xF,yF) ] that are meeted with the [bisectrixs: PD or QE or RF] in the 
-####     sides: QR or PR or PQ of a Triangle(PQR).
+#### 15. Get the [Coordinates] of any a of the [ Points: D(xD,yD) or E(xE,yE), or F(xF,yF) ] that are meeted with the [bisectrixs: PD or QE or RF] in the sides: QR or PR or PQ of a Triangle(PQR).
 #### 16. Determine any a of the [Inner bisectrixs: PD or QE or RF] of a Triangle(PQR). 
 
 In any *Command Prompt Windows* or *Terminal Linux* use *only* the **runVector2d.py program** file to run the new **[version: 2.0]** of the **Vectors2DClassModule.py module**.To more details access the *new instructions* of the **instructions1-v2.0_User.pdf** file. In my **repository** will maintain all the files always created. The users will continue using as in the last. The new **instructions1-v2.0_User.pdf** file will have more new *Instructions* and *Examples* because of **Vectors2DClassModule.py module** file have *new* classes with methods in replacement of the functions always created in **VectorModule2Dim.py module** and too have more new **supplementary classes**. 
 
 #### [Warning-1]: Never use the *runvectors2dim.py program* to run the *new* **Vectors2DClassModule.py module** file. 
 
-Too add the following *new files*: **TrianglePQR.pdf** and **ParallelogramPQRS.pdf** in *repository* to all users view and follow the *Examples: 6(page: 18), New Example 7(page: 20), and too New Example 13 and 14 in pages: 36 and 54* of the **instructions1-v2.0_User.pdf** file. Continue *still* using the files: *runtoolsvectors.py program* with the *VectorModDev.py module*, and too the *instructions2-v1.3_User.pdf* to solve new problems. Inform the all that *still* was not possible begin the *refactor* this previous files. Because of be refactor and test the *new* **[version: 2.0]** of the **Vectors2DClassModule.py module** and **runVector2d.py program** files. Was a hard work. Without forecast of when will be ready to use the *[new version: 2.0]* of this previous files.  
+Too add the following *new files*: **TrianglePQR.pdf** and **ParallelogramPQRS.pdf** in *repository* to all users view and follow the *Examples: 6(page: 18), New Example 7(page: 20), and too New Example 13 and 14 in pages: 36 and 54* of the **instructions1-v2.0_User.pdf** file. Continue *still* using the files: *runtoolsvectors.py program* with the *VectorModDev.py module*, and too the *instructions2-v1.3_User.pdf* to solve new problems. Inform the all that *still* was not possible begin the *refactor* this previous files. Without forecast of when will be ready to use the *[new version: 2.0]* of this previous files. Because of be refactor and test the *new* **[version: 2.0]** of the **Vectors2DClassModule.py module** and **runVector2d.py program** files. Was a hard work. 
 
 
 ###### Cristovom A. Girodo ( Earned the higher education degree in mathematics from the F.F.C.L.“Oswaldo Cruz” ).
