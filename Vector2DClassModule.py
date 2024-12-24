@@ -2360,7 +2360,7 @@ class VerticesTriangle:
 				self.yM = self.midpointM[i]
 				
 		self.xP = ( self.xK + self.xL ) - self.xM
-		self.yP = (	self.yK + self.yL ) - self.yM
+		self.yP = ( self.yK + self.yL ) - self.yM
 		
 		self.PointP = (self.xP,self.yP)
 		answer.view_solution() 
@@ -2381,7 +2381,7 @@ class VerticesTriangle:
 				self.yM = self.midpointM[j]
 				
 		self.xQ = ( self.xM + self.xK ) - self.xL
-		self.yQ = (	self.yM + self.yK ) - self.yL
+		self.yQ = ( self.yM + self.yK ) - self.yL
 		
 		self.PointQ = (self.xQ,self.yQ)
 		answer.view_solution() 
@@ -2402,7 +2402,7 @@ class VerticesTriangle:
 				self.yM = self.midpointM[k]
 				
 		self.xR = ( self.xL + self.xM ) - self.xK
-		self.yR = (	self.yL + self.yM ) - self.yK
+		self.yR = ( self.yL + self.yM ) - self.yK
 		
 		self.PointR = (self.xR,self.yR)
 		answer.view_solution() 
