@@ -144,9 +144,7 @@ Welcome the all in GitHub to know the release of the new [version: 2.0] of the *
 ####  7. Determine the following [Middle Points]: K(xK,yK), L(xL,yL), M(xM,yM)] and N(xN,yN)] between [ points: P(xP,yP), Q(xQ,yQ), R(xR,yR), and S(xS,yS) ] or in the sides: PQ, PR, and QR of a Triangle(PQR).
 ####  8. Get the [Addition and Subtraction] of [Two Vectors: A and B].
 ####  9. Calculate the [Resultant(|R) Vector].
-#### 10. Find the [VectorA and lenght|A|] with the [coordinates] of the [points: P(xP,yP), and Q(xQ,yQ)]
-         Get the [VectorB and lenght|B|] with the [coordinates] of the [points: P(xP,yP), and R(xR,yR)]
-         Find the [VectorC and lenght|C|] with the [coordinates] of the [points: Q(xQ,yQ), and R(xR,yR)]
+#### 10. Find the [VectorA and lenght|A|] with the [coordinates] of the [points: P(xP,yP), and Q(xQ,yQ)]. Get the [VectorB and lenght|B|] with the [coordinates] of the [points: P(xP,yP), and R(xR,yR)]. Find the [VectorC and lenght|C|] with the [coordinates] of the [points: Q(xQ,yQ), and R(xR,yR)].
 #### 11. Get the [Addition] and [Subraction] between [Two Vectors: A and B] Multiplyed by scalars: [coeffic1 and coeffic2].
 #### 12. Determine the [Medianas: PM, QL, and RK] of the triangle(PQR).
 #### 13. Find the [Centroid: G(xG, yG)] of the triangle(PQR).
