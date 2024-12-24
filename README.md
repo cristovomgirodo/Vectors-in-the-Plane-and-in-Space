@@ -145,8 +145,8 @@ Welcome the all in GitHub to know the release of the new [version: 2.0] of the *
 ####  8. Get the [Addition and Subtraction] of [Two Vectors: A and B].
 ####  9. Calculate the [Resultant(|R) Vector].
 #### 10. Find the [VectorA and lenght|A|] with the [coordinates] of the [points: P(xP,yP), and Q(xQ,yQ)]
-####     Get the [VectorB and lenght|B|] with the [coordinates] of the [points: P(xP,yP), and R(xR,yR)]
-####     Find the [VectorC and lenght|C|] with the [coordinates] of the [points: Q(xQ,yQ), and R(xR,yR)]
+         Get the [VectorB and lenght|B|] with the [coordinates] of the [points: P(xP,yP), and R(xR,yR)]
+         Find the [VectorC and lenght|C|] with the [coordinates] of the [points: Q(xQ,yQ), and R(xR,yR)]
 #### 11. Get the [Addition] and [Subraction] between [Two Vectors: A and B] Multiplyed by scalars: [coeffic1 and coeffic2].
 #### 12. Determine the [Medianas: PM, QL, and RK] of the triangle(PQR).
 #### 13. Find the [Centroid: G(xG, yG)] of the triangle(PQR).
