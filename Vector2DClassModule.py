@@ -364,7 +364,7 @@ class TextString1:
 	'''Instructions of the processing after test of enter data.'''
 	def view_instructions(self):
 		print('\t=========================================================================')
-		print('\t**[ EXIST THE TRIANGLE(PQR) WITH THE GIVEN POINTS: P, Q, AND C -- OK! ]**')
+		print('\t**[ EXIST THE TRIANGLE(PQR) WITH THE GIVEN POINTS: P, Q, AND R -- OK! ]**')
 		print('\t=========================================================================\n')
 		
 textstring1 = TextString1()
