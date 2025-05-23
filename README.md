@@ -86,7 +86,7 @@ The **runtoolsvectors.py and runvectors2dim.py programs** was developed to the p
 ### [vectorC]: vectorC[xC,yC,zC]
 ### [vectorD]: vectorD[xD,yD,zD]
 
-### To any values attribute to the [Components]: xA, yA, zA, xB, yB, zB, xC, yC, zC xD, yD, and zD by users.
+### To any values attribute to the [Components]: xA, yA, zA, xB, yB, zB, xC, yC, zC, xD, yD, and zD by users.
 
 **[Warning-2]** – Was standardize **the letters: A, B, and C to the vectors** and **P, Q, R, and S to points of the vertexes of triangles, parallelogram and parallelepiped into the code of the functions** of the  **VectorModDev.py and VectorModule2Dim.py modules**. 
 
@@ -150,8 +150,7 @@ Welcome the all in GitHub to know the release of the new [version: 2.0] of the *
 #### 12. Determine the [Medians]]: PM, QL, and RK] of the triangle(PQR).
 #### 13. Find the [Centroid: G(xG, yG)] of the triangle(PQR).
 #### 14. Calculate the [ Vertices: P(xP.yP), Q(xQ,yQ), and R(xR,yR) ] of the triangle(PQR) with the [Coordinates] given of the [ Middle points: K(xK,yK), L(xL,yL), and M(xM,yM) ]. 
-#### 15. Get the [Coordinates] of any a of the [ Points: D(xD,yD) or E(xE,yE), or F(xF,yF) ] that are meeted with the [bisectrixs: PD or QE or RF] in sides: QR or PR or PQ of a  
-####     Triangle(PQR).
+#### 15. Get the [Coordinates] of any a of the [ Points: D(xD,yD) or E(xE,yE), or F(xF,yF) ] that are meeted with the [bisectrixs: PD or QE or RF] in sides: QR or PR or PQ of a  Triangle(PQR).
 #### 16. Determine any a of the [Inner bisectrixs]: PD or QE or RF of a Triangle(PQR). 
 
 In any *Command Prompt Windows* or *Terminal Linux* use *only* the **runVector2d.py program** file to run the new **[version: 2.0]** of the **Vectors2DClassModule.py module**.To more details access the *new instructions* of the **instructions1-v2.0_User.pdf** file. In my **repository** will maintain all the files always created. The users will continue using as in the last. The new **instructions1-v2.0_User.pdf** file will have more new *Instructions* and *Examples* because of **Vector2dClassModule.py module** file have *new* classes with methods in replacement of the functions always created in **VectorModule2Dim.py module** and too have more new **supplementary classes**. 
@@ -170,7 +169,8 @@ Hello the all in GitHub and too in World to know the release of the new [version
 ####  1. Find the [Scalar Product]: a * b by [definiton] between [two vectors]: vectorA[a1, a2, a3], and vectorB[b1, b2, b3] or to theorem using the vector modules.
 ####  2. Calculate the [Area(S)] of the TrianglePQR: using the given [Components] of the [Vectors]: vectorA[a1, a2, a3], and vectorB[b1, b2, b3] or with the given [coordinates]   
 ####     of the [points]: P(xP,yP,zP), Q(xQ,yQ,zQ), and R(xR,yR,zR) using the [Cross Product].
-####  3. Get the [Area(S)] and [Height: h] of the [Parallelogram(PQRS)] with the given [coordinates] of the [points]: P(xP,yP,zP), Q(xQ,yQ,zQ), R(xR,yR,zR), or with the given           ####     [Components] of [two vectors]: vectorA[a1, a2, a3], and vectorB[b1, b2, b3] using the [Cross Product].
+####  3. Get the [Area(S)] and [Height: h] of the [Parallelogram(PQRS)] with the given [coordinates] of the [points]: P(xP,yP,zP), Q(xQ,yQ,zQ), R(xR,yR,zR), or with the given 
+####     [Components] of [two vectors]: vectorA[a1, a2, a3], and vectorB[b1, b2, b3] using the [Cross Product].
 ####  4. Find the [angle] between [two vectors]: vectorA[a1, a2, a3], and vectorB[b1, b2, b3] in |R³ Space with the [Cross Product]. 
 ####  5. Calculate the [value] of the [CosineTheta] between the [two vectors]: vectorA[a1, a2, a3], and vectorB[b1, b2, b3].
 ####  6. Find the three sides and [Inner Angles: ALPHA, BETA, and GAMA] of the [Triangle(PQR)] with the [coordinates] of the [points: P(xP,yP,zP), Q(xQ,yQ,zQ), and R(xR,yR,zR]. 
@@ -178,7 +178,8 @@ Hello the all in GitHub and too in World to know the release of the new [version
 ####  8. Determine the following [Middle Points]: K(xK,yK,zK), L(xL,yL,zL), M(xM,yM,zM), and N(xN,yN,zN) between [points]: P(xP,yP,zP), Q(xQ,yQ,zQ), R(xR,yR,zR), and S(xS,yS,zS)].
 ####  9. Get the [Addition and Subtraction] of [Two Vectors]: vectorA[a1, a2, a3], and vectorB[b1, b2, b3].
 #### 10. To find the [Addition] and [Subraction] between [two vectors]: vectorA[a1, a2, a3] and vectorB[b1, b2, b3] multiplyed by [two scalars]: [coeffic1 and coeffic2].
-#### 11. To get the [Volume_V(P)], and [Height(h)] of a [Parallelepiped] and too the [Volume_V(T)] of a [Tetrahedron] with the given [Coordinates] of the [four points]: P, Q, R, S  ####     or with the given [Components] of the [three vectors]: vector_A, vector_B, and vector_C.
+#### 11. To get the [Volume_V(P)], and [Height(h)] of a [Parallelepiped] and too the [Volume_V(T)] of a [Tetrahedron] with the given [Coordinates] of the [four points]: P, Q, R, S
+####     or with the given [Components] of the [three vectors]: vector_A, vector_B, and vector_C.
 #### 12. Find the [VectorA and module|A|] with the given [coordinates] of the [points]: P(xP,yP,zP), and Q(xQ,yQ,zQ)].
 ####     Get the [VectorB and module|B|] with the given [coordinates] of the [points]: P(xP,yP,zP), and R(xR,yR,zR)].
 ####     Find the [VectorC and module|C|] with the given [coordinates] of the [points]: Q(xQ,yQ,zQ), and R(xR,yR,zR)].
@@ -191,8 +192,7 @@ Hello the all in GitHub and too in World to know the release of the new [version
 ####     calculate the [Direction Cosines] and [Direction Angles].
 #### 19. To calculate the [dimensions]: [Perimeter(P)], [Heights(h1,h2,h3)], and [Area(A)] of a [TrianglePQR]  with the given [Coordinates] of the [three points]: P, Q, and R.
 #### 20. To get the [dimensions]: [Perimeter(P)], [heights(h1,h2)], and [Area(S)] of a [Parallelogram(PQRS)].
-#### 21. Calculate the [Vertices]: P(xP,yP,zP), Q(xQ,yQ,zQ), and R(xR,yR,zR) of a triangle(PQR) with the given [Coordinates] of the [Middle points]: K(xK,yK,zK), L(xL,yL,zL),  
-####     M(xM,yM,zM).
+#### 21. Calculate the [Vertices]: P(xP,yP,zP), Q(xQ,yQ,zQ), and R(xR,yR,zR) of a triangle(PQR) with the given [Coordinates] of the [Middle points]: K(xK,yK,zK), L(xL,yL,zL), M(xM,yM,zM).
 
 In any **Command Prompt Windows** or **Terminal Linux** use *only* the **runVector3d.py program** file to run the new **[version: 2.0]** of the **Vector3dClassModule.py module**.To *more details* access all the *new* **instructions and examples** of the **instructions2-v2.0_User.pdf** file. Now this repository is complete with the *new* **version: 2.0**.
 
