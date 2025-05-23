@@ -933,7 +933,7 @@ class CrossProduct:
 	 vectorQR = [], vectorPQ = [], vectorQP = [], vectorPR = [], radianAngle = 0, radianAlpha = 0, radianTheta = 0,
 	 sine = 0, sineAlphaRadians = 0, sideA = 0, sideB = 0, sideC = 0, term = 0, term0 = 0, term1 = 0, term2 = 0,
 	 theta = 0, thetaAngle_degree = 0, xP = 0, xQ = 0,xR = 0, yP = 0, yQ = 0, yR = 0,  zP = 0, zQ = 0, zR = 0, Cx = 0,
-	 Cy = 0, Cz = 0, vectorAxB = [], normVectorAxB = 0, ):
+	 Cy = 0, Cz = 0, vectorAxB = [], normVectorAxB = 0 ):
 		
 		self.a1 = a1
 		self.a2 = a2
@@ -1996,7 +1996,7 @@ class Scalar3dProduct:
 					print(f'\t-- The [Alpha angle] between vectors: vectorRP and vectorPS is: {self.alpha:<.2f}')
 					
 				else:
-					TextString3()
+					textstring3.error_option()
 					return
 					
 			elif self.number1 == 2:
