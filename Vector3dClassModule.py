@@ -724,7 +724,7 @@ class Medians3d:
 		pointcoordinates3d.number1 = 1
 		self.pointP = pointcoordinates3d.getpointcoordinates3d()
 		
-		for h in range (0, 3):
+		for h in range (0, 3):••••••••••••••••
 			self.compVectorPM = self.PointM[h] - self.pointP[h]
 			if h == 0:
 				self.compX = self.compVectorPM
@@ -914,16 +914,16 @@ class CrossProduct:
 	"""
 	Find the Cross Product
 	Given all the [coomponents]: a1, a2, a3, b1, b2, and b3 of two [vectors]: vectorA and vectorB or all the   
-    [coordinates]: xP, yP, zP, xQ, yQ, zQ, xR, yR, and zR of the points: P, Q, and R that will represent the 
-    [Vectors]: vectorA = vectorPQ, and vectorB = vectorPR.
-    
-                |  i   j   k |
-    vectorAxB = | a1  a2  a3 |  
-                | b1  b2  b3 |  
-                                           
-    Will calculate the value of the [area A of a given parallelogramPQRS] using A = |vectorAxB|
-    as also will determine the value of the [area S of a trianglePQR] with S = |vectorAxB| / 2 or
-    will get the value of the ThetaSine using [ Thetasine = normAxB / normproduct ].
+	[coordinates]: xP, yP, zP, xQ, yQ, zQ, xR, yR, and zR of the points: P, Q, and R that will represent the 
+	[Vectors]: vectorA = vectorPQ, and vectorB = vectorPR.
+	    
+	                    |  i   j   k |
+		vectorAxB = | a1  a2  a3 |  
+	                    | b1  b2  b3 |  
+	                                           
+	Will calculate the value of the [area A of a given parallelogramPQRS] using A = |vectorAxB|
+	as also will determine the value of the [area S of a trianglePQR] with S = |vectorAxB| / 2 or
+	will get the value of the ThetaSine using [ Thetasine = normAxB / normproduct ].
 	"""
 	
 	def __init__(self, alpha = 0, a1 = 0, a2 = 0, a3 = 0, add = 0, Area = 0, b1 = 0, b2 = 0, b3 = 0,  Area_S = 0,
@@ -2474,14 +2474,14 @@ class MixedProduct:
 	points: P,Q, R, and S will find the [vectors] represented by self.vectorA = self.vectorPQ, self.vectorB = 
 	self.vectorPR, and self.vectorC = self.vectorPS and will determine the Mixed Product given to:
 	
-                                                  | a1  a2  a3 |
-    volume(V) = abs ( vectorA * (B x C) ) = abs ( | b1  b2  b3 | ),    
-                                                  | c1  c2  c3 |    
+                                                      | a1  a2  a3 |
+    	volume(V) = abs ( vectorA * (B x C) ) = abs ( | b1  b2  b3 | ),    
+                                                      | c1  c2  c3 |    
                                                                   						                                                         
-    will calculate the [value] of the [determinant of the ( 3 x 3) matrix] by [Theorem of Sarru's] that is                                                               					
-    the [volume_V(P)] of the [Parallelepiped] and too will find also the [volume_V(T) of the [Tetrahedron]. 
-    ------------------------------------------------------------------------------------------------------------------
-    '''
+    	will calculate the [value] of the [determinant of the ( 3 x 3) matrix] by [Theorem of Sarru's] that is                                                               					
+    	the [volume_V(P)] of the [Parallelepiped] and too will find also the [volume_V(T) of the [Tetrahedron]. 
+    	------------------------------------------------------------------------------------------------------------------
+    	'''
 	def __init__(self, add = 0, Area = 0, a1 = 0, a2 = 0, a3 = 0, b1 = 0, b2 = 0, b3 = 0, c1 = 0, c2 = 0, c3 = 0,
 	coefficient = 0, comp0 = 0, comp1 = 0, comp2 = 0, coordP = 0, coordQ = 0, coordR = 0, coordS = 0, Cx = 0, Cy = 0,
 	Cz = 0, normA = 0, normB = 0, normC = 0, NormAxB = 0, normVectorAxB = 0, heightParallelep = 0, parallelepiped = 0,
@@ -3147,8 +3147,8 @@ getvectorD = FindVectorD()
 
 class VerticesTriangle3d:
 	'''
-	Given the Midpoints: K(xK,yK), L(xL,yL), and M(xM,yM) of a Triangle(PQR) will find the vertice points: P(xP,yP),
-	Q(xQ,yQ), and R(xR,yR) of the Triangle(PQR).
+	Given the Midpoints: K(xK,yK,zK), L(xL,yL,zL), and M(xM,yM,zM) of a Triangle(PQR) will find the vertice points: P(xP,yP,zP),
+	Q(xQ,yQ,zQ), and R(xR,yR,zR) of the Triangle(PQR).
 	'''
 	def __init__(self, coord = 0, number4 = 0, midpointK = [], midpointL = [], midpointM = [], PointK = (), 
 	PointL = (), PointM = (), PointP = (), PointQ = (), PointR = (), xK = 0, yK = 0, zK = 0, xL = 0, yL = 0, zL = 0,
