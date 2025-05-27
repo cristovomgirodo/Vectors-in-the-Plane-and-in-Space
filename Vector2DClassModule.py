@@ -1666,7 +1666,7 @@ class Medians:
 		self.medianPM = magnitudebivector.magbivector()
 		answer.view_solution()
 		print('\t-- The terms of the [vectorPM]:', self.vectorPM)
-		print(f'\t-- The [mediana: PM] finded is {self.medianPM:<.2f}','\n')
+		print(f'\t-- The [median: PM] finded is {self.medianPM:<.2f}','\n')
 		return
 		
 	def findMedianQL(self):
@@ -1694,7 +1694,7 @@ class Medians:
 		self.medianQL = magnitudebivector.magbivector()
 		answer.view_solution()
 		print('\t-- The terms of the [vectorQL]:', self.vectorQL)
-		print(f'\t-- The [mediana: QL] finded is {self.medianQL:<.2f}','\n')
+		print(f'\t-- The [median: QL] finded is {self.medianQL:<.2f}','\n')
 		return
 		
 	def findMedianRK(self):
@@ -1722,20 +1722,20 @@ class Medians:
 		self.medianRK = magnitudebivector.magbivector()
 		answer.view_solution()
 		print('\t-- The terms of the [vectorRK]:', self.vectorRK)
-		print(f'\t-- The [mediana: RK] finded is {self.medianRK:<.2f}','\n')
+		print(f'\t-- The [median: RK] finded is {self.medianRK:<.2f}','\n')
 		return
 		
 medians = Medians()
 
 class FindTheMedians:
-	'''Determine the medianas of the triangle(PQR)'''
+	'''Determine the medians of the triangle(PQR)'''
 	def __init__(self, number2 = 0):
 		self.number2 = number2
 		
 	def getmedians(self):
-		print('\t\t- Key [1] to find the new medianaPM or')
-		print('\t\t- Key [2] to find the new medianaQL or')
-		print('\t\t- Key [3] to find the new medianaRK.\n')
+		print('\t\t- Key [1] to find the new medianPM or')
+		print('\t\t- Key [2] to find the new medianQL or')
+		print('\t\t- Key [3] to find the new medianRK.\n')
 		self.number2 = vector.enterIntegerData()
 		if self.number2 == 1:
 			medians.findMedianPM()
