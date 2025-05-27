@@ -57,43 +57,45 @@ In Python programming language , **an list data structure** are represented to *
 #### 12. Givens the coordinates of two points:  P and Q in Plane or Space, find the vector a=vectorPQ and too your length.
 #### 13. Determine the [Direction Cosines] and [Direction Angles] givens the Vector a or two points: P and Q in Space. 
 
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 #### When developed the VectorModDev.py and VectorModule2Dim.py modules, almost all the functions developed was use the Vectorial Algebra in a list data structure to reduce the size of the functions. As the Python lists are well powerful the runvectors2dim.py and runtoolsvectors.py programs will process any calculus using the inner functions of the previous modules. *The functions: vectornumber(), introduce(), instruction1(), instruction2() and ResultantVector()* are the only that *was not use* in the *list data structure*.
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-The **runtoolsvectors.py and runvectors2dim.py programs** was developed to the programmers as also to teachers and students of the higher education to find speed answer when will solve the vectors problems. In **codes** of the **VectorModDev.py and VectorModule2Dim.py modules**, was do represent the **vertexes points: D, E, F, G, K, L, M, P, Q, R and S** and the **vectors: A, B, and C** of the following manner:
-
+The **runtoolsvectors.py and runvectors2dim.py programs** was developed to the programmers as also to teachers and students of the higher education to find speed answer when will solve the vectors problems. In **codes** of the **VectorModDev.py and VectorModule2Dim.py modules**, was do represent the **vertexes points: D, E, F, G, K, L, M, N, P, Q, R and S** and the **vectors: A, B, and C** of the following manner:
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ### Point: D, E, F, G, P, Q, R, and S in the Plane: 
-
-### Point P: P(xP,yP)
-### Point Q: Q(xQ,yQ)
-### Point R: R(xR,yR)
-### Point S: S(xS,yS)
 
 ### Point D: D(xD,yD)
 ### Point E: E(xE,yE)
 ### Point F: F(xF,yF)
 ### Point G: G(xG,yG)
-### Point K : K(xK,yK)
-### Point L : L(xL,yL)
-### Point M : M(xM,yM)
+### Point K: K(xK,yK)
+### Point L: L(xL,yL)
+### Point M: M(xM,yM)
+### Point N: N(xN,yN)
+### Point P: P(xP,yP)
+### Point Q: Q(xQ,yQ)
+### Point R: R(xR,yR)
+### Point S: S(xS,yS)
 
+### To any values attribute to the [Coordinates]: xD, yD, zD, xE, yE, zE, xF, yF, zF, xG, yG, xK, yK, xL, yL, xM, yM, xP, yP, xQ, yQ, xR, yR, xS, and yS by users.
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ### Points: G, K, L, M, P, Q, R, and S in the Space:
 
 ### Point G: G(xG,yG, zG)
-### Point K : K(xK,yK,zK)
-### Point L : L(xL,yL,zL)
-### Point M : M(xM,yM,zM)
+### Point K: K(xK,yK,zK)
+### Point L: L(xL,yL,zL)
+### Point M: M(xM,yM,zM)
+### Point N: N(xN,yN,zN)
 
 ### Point P: P(xP,yP,zP)
 ### Point Q: Q(xQ,yQ,zQ)
 ### Point R: R(xR,yR,zR)
 ### Point S: S(xS,yS,zS)
 
-### To any values attribute to the [Coordinates]: xD, yD, zD, xE, yE, zE, xF, yF, zF, xG, yG, zG, xK, yK, zK, xL, yL, zL, xM, yM, zM, xP, yP, zP, xQ, yQ, zQ, xR, yR, zR, xS, yS, zS by users.
+### To any values attribute to the [Coordinates]: xG, yG, zG, xK, yK, zK, xL, yL, zL, xM, yM, zM, xP, yP, zP, xQ, yQ, zQ, xR, yR, zR, xS, yS, zS by users.
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -102,6 +104,8 @@ The **runtoolsvectors.py and runvectors2dim.py programs** was developed to the p
 ### [vectorA]: vectorA[xA,yA]
 ### [vectorB]: vectorB[xB,yB]
 ### [vectorC]: vectorC[xC,yC]
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ### The vectors: A, B, C and D in the Space:
 
@@ -230,6 +234,7 @@ Hello the all in GitHub and too in World to know the release of the new [version
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-In any **Command Prompt Windows** or **Terminal Linux** use *only* the **runVector3d.py program** file to run the new **[version: 2.0]** of the **Vector3dClassModule.py module**.To *more details* access all the *new* **instructions and examples** of the **instructions2-v2.0_User.pdf** file. Now this repository is complete with the *new* **version: 2.0**.
+In any **Command Prompt Windows** or **Terminal Linux** use *only* the **runVector3d.py program** file to run the new **[version: 2.0]** of the **Vector3dClassModule.py module**.To *more details* access all the *new* **instructions and examples** of the **instructions2-v2.0_User.pdf** file. Now this repository is complete with the *new* **version: 2.0**. A *[new]* **[version: 2.1]** of the **runVector2d.py program** file was release and 
+In any **Command Prompt Windows** or **Terminal Linux** use *only* the **runVector3d.py program** file to run the new **[version: 2.0]** of the **Vector3dClassModule.py module**.To *more details* access all the *new* **instructions and examples** of the **instructions2-v2.0_User.pdf** file. Now this repository is complete with the *new* **version: 2.0**. A *[new]* **[version: 2.1]** of the **runVector2d.py program** file was release and was update the **[code]** of the **Vector2dClassModule.py module** file  **[version: 2.0]** because of small error.
 
 ##### Cristovom A. Girodo ( Earned the higher education degree in mathematics from the F.F.C.L.“Oswaldo Cruz” ).
