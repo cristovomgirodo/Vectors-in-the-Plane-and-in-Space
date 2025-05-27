@@ -37,7 +37,9 @@ v = (v1,v2,v3) is called a linear array or vector
 
 Neither always the developers of programming language use the same symbols as is represented in  mathematics when create new programming languages. The *reader* more interested in subject will can acess the best books of **Calculus, Linear Algebra, and Analytic Geometry of the higher education**. 
 
-In Python programming language , **an list data structure** are represented to **a pair square bracket [ ]**.and **an tuple data structure** are represented to **a pair square parentheses ( )**. Python program may use a *list or tuple data structure* to represent a vector. Was use the tuple data structure only to represent the coordinates of the vertexes points: P, Q, and R of triangles and too the coordinates of the vertexes points: P, Q, R and S of parallelogram, parallelepiped and tetrahedron into code of the functions into modules. 
+In Python programming language , **an list data structure** are represented to **a pair square bracket [ ]**.and **an tuple data structure** are represented to **a pair square parentheses ( )**. Python program may use a *list or tuple data structure* to represent a vector. Was use the tuple data structure only to represent the coordinates of the vertexes points: P, Q, and R of triangles and too the coordinates of the vertexes points: P, Q, R and S of parallelogram, parallelepiped and tetrahedron into code of the functions into modules.
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ### The main point of the mathematics developed into the functions of the VectorModDev.py and VectorModule2Dim.py modules was use *definitions* and *theorems* that are:
 
@@ -56,8 +58,9 @@ In Python programming language , **an list data structure** are represented to *
 #### 13. Determine the [Direction Cosines] and [Direction Angles] givens the Vector a or two points: P and Q in Space. 
 
 #### When developed the VectorModDev.py and VectorModule2Dim.py modules, almost all the functions developed was use the Vectorial Algebra in a list data structure to reduce the size of the functions. As the Python lists are well powerful the runvectors2dim.py and runtoolsvectors.py programs will process any calculus using the inner functions of the previous modules. *The functions: vectornumber(), introduce(), instruction1(), instruction2() and ResultantVector()* are the only that *was not use* in the *list data structure*.
- 
-The **runtoolsvectors.py and runvectors2dim.py programs** was developed to the programmers as also to teachers and students of the higher education to find speed answer when will solve the vectors problems. In **codes** of the **VectorModDev.py and VectorModule2Dim.py modules**, was do represent the **vertexes points: P, Q, R and S** and the **vectors: A, B, and C** of the following manner:
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The **runtoolsvectors.py and runvectors2dim.py programs** was developed to the programmers as also to teachers and students of the higher education to find speed answer when will solve the vectors problems. In **codes** of the **VectorModDev.py and VectorModule2Dim.py modules**, was do represent the **vertexes points: D, E, F, G, K, L, M, P, Q, R and S** and the **vectors: A, B, and C** of the following manner:
 
 ### Point P, Q, R, and S in the Plane: 
 
@@ -65,6 +68,13 @@ The **runtoolsvectors.py and runvectors2dim.py programs** was developed to the p
 ### Point Q: Q(xQ,yQ)
 ### Point R: R(xR,yR)
 ### Point S: S(xS,yS)
+
+### Point D: D(xD,yD)
+### Point E: E(xE,yE)
+### Point E: F(xF,yF)
+### Point K : K(xK,yK)
+### Point L : L(xL,yL)
+### Point M : M(xM,yM)
 
 ### Points: K, L, M, P, Q, R, and S in the Space: 
 ### Point K : K(xK,yK,zK)
@@ -76,7 +86,9 @@ The **runtoolsvectors.py and runvectors2dim.py programs** was developed to the p
 ### Point R: R(xR,yR,zR)
 ### Point S: S(xS,yS,zS)
 
-### To any values attribute to the [Coordinates]: xP, yP, zP, xQ, yQ, zQ, xR, yR, zR, xS, yS, zS by users.
+### To any values attribute to the [Coordinates]: xD, yD, xE, yE, xF, yF, xK, yK, xL, yL, xM, yM, xP, yP, zP, xQ, yQ, zQ, xR, yR, zR, xS, yS, zS by users.
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ### The vectors: A, B, and C in the Plane:
 
@@ -92,6 +104,8 @@ The **runtoolsvectors.py and runvectors2dim.py programs** was developed to the p
 ### [vectorD]: vectorD[xD,yD,zD]
 
 ### To any values attribute to the [Components]: xA, yA, zA, xB, yB, zB, xC, yC, zC, xD, yD, and zD by users.
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 **[Warning-2]** – Was standardize **the letters: A, B, and C to the vectors** and **P, Q, R, and S to points of the vertexes of triangles, parallelogram and parallelepiped into the code of the functions** of the  **VectorModDev.py and VectorModule2Dim.py modules**. 
 
@@ -134,6 +148,8 @@ Welcome the all users of the *GitHub* to use the new **[version: 1.3]** of the f
 #### [Warning-9]:
 Now present the new [version: 1.3] that will update the files: **README.md**, **Changelog.md**, **instructions2-v1.2_User.pdf** file, **runtoolsvectors.py** program as too the **VectorModDev.py** module. The new update files will **instructions2-v1.3_User.pdf**, **runtoolsvectors.py** program as too the **VectorModDev.py** module. The only *file renamed* was be **instructions2-v1.3_User.pdf**. The **Changelog.md** file have informations of all the changes in code of this update files. The *repository* now will have the **runvectors2dim.py** and **runtoolsvectors.py** *programs*, **VectorModDev.py** and **VectorModule2Dim.py** *module* as too the **instructions1-v1.3_User.pdf** and **instructions2-v1.3_User.pdf** *tutorials* in the same *version: 1.3*.
 
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 #### [New Version: 2.0]:
 Welcome the all in GitHub to know the release of the new [version: 2.0] of the **Vectors2DClassModule.py module**, **runVector2d.py program** and the **instructions1-v2.0_User.pdf** files. Inform that will not more possible *update* the old files: *runvectors2dim.py*, and *VectorModule2Dim.py* as in [version: 1.3] because of have been *refactoring* with the *new* **paradigm of the Python object-oriented programming** using only **the class sintax**. The *new files* will not have the same name. The *new code is not the same* because of **class definitions created have new atributes**. Created the following *new files*: **Vectors2DClassModule.py module**, **runVector2d.py program** and the **instructions1-v2.0_User.pdf** file in replacement to the previous files.
 
@@ -156,7 +172,9 @@ Welcome the all in GitHub to know the release of the new [version: 2.0] of the *
 #### 13. Find the [Centroid: G(xG, yG)] of the triangle(PQR).
 #### 14. Calculate the [ Vertices: P(xP.yP), Q(xQ,yQ), and R(xR,yR) ] of the triangle(PQR) with the [Coordinates] given of the [ Middle points: K(xK,yK), L(xL,yL), and M(xM,yM) ]. 
 #### 15. Get the [Coordinates] of any a of the [ Points: D(xD,yD) or E(xE,yE), or F(xF,yF) ] that are meeted with the [bisectrixs: PD or QE or RF] in sides: QR or PR or PQ of a  Triangle(PQR).
-#### 16. Determine any a of the [Inner bisectrixs]: PD or QE or RF of a Triangle(PQR). 
+#### 16. Determine any a of the [Inner bisectrixs]: PD or QE or RF of a Triangle(PQR).
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 In any *Command Prompt Windows* or *Terminal Linux* use *only* the **runVector2d.py program** file to run the new **[version: 2.0]** of the **Vectors2DClassModule.py module**.To more details access the *new instructions* of the **instructions1-v2.0_User.pdf** file. In my **repository** will maintain all the files always created. The users will continue using as in the last. The new **instructions1-v2.0_User.pdf** file will have more new *Instructions* and *Examples* because of **Vector2dClassModule.py module** file have *new* classes with methods in replacement of the functions always created in **VectorModule2Dim.py module** and too have more new **supplementary classes**. 
 
@@ -164,8 +182,12 @@ In any *Command Prompt Windows* or *Terminal Linux* use *only* the **runVector2d
 
 Too add the following *new files*: **TrianglePQR.pdf** and **ParallelogramPQRS.pdf** in *repository* to all users view and follow the *Examples: 6(page: 18), New Example 7(page: 20), and too New Example 13 and 14 in pages: 36 and 54* of the **instructions1-v2.0_User.pdf** file. Continue *still* using the files: *runtoolsvectors.py program* with the *VectorModDev.py module*, and too the *instructions2-v1.3_User.pdf* to solve new problems. Inform the all that *still* was not possible begin the *refactor* this previous files. Because of be refactor and test the *new* **[version: 2.0]** of the **Vector2dClassModule.py module** and **runVector2d.py program** files. Was a hard work. Without forecast of when will be ready to use the *[new version: 2.0]* of this previous files.
 
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 #### [New Version: 2.0]:
 Hello the all in GitHub and too in World to know the release of the new [version: 2.0] of the *files*: **Vector3dClassModule.py module**, **runVector3d.py program** and the **instructions2-v2.0_User.pdf**. Inform the all that *will not* more possible *update* the *old files*: *runtoolsvectors.py*, and *VectorModDev.py* as in [version: 1.3] because of have been all *refactoring* with the *new* **paradigm of the Python object-oriented programming** using only **the class syntax**. The *new files* will not have the same name. The *new code is not the same* because of **class definitions created have new attributes and methods**. Created the following *new files*: **Vector3dClassModule.py module**, **runVector3d.py program**, and too the **instructions2-v2.0_User.pdf** file in replacement to the previous files. The *[new]* **instructions2-v2.0_User.pdf** file will have more new *Instructions* and *Examples* because of **Vector3dClassModule.py module** file have *new* **class definitions with methods** in *replacement of the functions* always created in **VectorModDev.py** module and too have more *new* **supplementary classes** with others **Theorems** of the **Calculus**. All the *users* will view that with the use of the **new code** in **runVector3d.py program**  and **Vector3dClassModule.py module** files is **well more powerful** than the *runtoolsvectors.py*, and *VectorModDev.py* files. Only use the **runVector3d.py program** file follow *all* the **new Instructions and Examples** of the **instructions2-v2.0_User.pdf** *file*.
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 #### [Warning!]: never use the [old] runtoolsvectors.py program to run the [new] Vector3dClassModule.py module module file. [Will not possible run this previous file - Ok!].
 
@@ -198,6 +220,8 @@ Hello the all in GitHub and too in World to know the release of the new [version
 #### 19. To calculate the [dimensions]: [Perimeter(P)], [Heights(h1,h2,h3)], and [Area(A)] of a [TrianglePQR]  with the given [Coordinates] of the [three points]: P, Q, and R.
 #### 20. To get the [dimensions]: [Perimeter(P)], [heights(h1,h2)], and [Area(S)] of a [Parallelogram(PQRS)].
 #### 21. Calculate the [Vertices]: P(xP,yP,zP), Q(xQ,yQ,zQ), and R(xR,yR,zR) of a triangle(PQR) with the given [Coordinates] of the [Middle points]: K(xK,yK,zK), L(xL,yL,zL), M(xM,yM,zM).
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 In any **Command Prompt Windows** or **Terminal Linux** use *only* the **runVector3d.py program** file to run the new **[version: 2.0]** of the **Vector3dClassModule.py module**.To *more details* access all the *new* **instructions and examples** of the **instructions2-v2.0_User.pdf** file. Now this repository is complete with the *new* **version: 2.0**.
 
