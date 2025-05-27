@@ -79,7 +79,7 @@ The **runtoolsvectors.py and runvectors2dim.py programs** was developed to the p
 ### Point R: R(xR,yR)
 ### Point S: S(xS,yS)
 
-### To any values attribute to the [Coordinates]: xD, yD, zD, xE, yE, zE, xF, yF, zF, xG, yG, xK, yK, xL, yL, xM, yM, xP, yP, xQ, yQ, xR, yR, xS, and yS by users.
+### To any values attribute to the [Coordinates]: xD, yD, xE, yE, xF, yF, xG, yG, xK, yK, xL, yL, xM, yM, xP, yP, xQ, yQ, xR, yR, xS, and yS by users.
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ### Points: G, K, L, M, P, Q, R, and S in the Space:
