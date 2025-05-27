@@ -41,7 +41,7 @@ import math
 
 print('\n\n\t         **[ WELCOME IN USING THE [RUNVECTOR3D.PY] PROGRAM ]**') 
 print('\t   **[ TO [SOLVE] VARIOUS PROBLEMS OF [VECTORS] IN THE [SPACE] ]**')
-print('\t\t\t--[Version: 2.0 -- Beta]--')
+print('\t\t\t--[Version: 2.0 -- Stable]--')
 print('\n\n\t**[INSTRUCTIONS OF USE]**\n')
 
 print('- To find the [value] of the [Dot Product] of [two vectors]: vectorA and vectorB using the')
