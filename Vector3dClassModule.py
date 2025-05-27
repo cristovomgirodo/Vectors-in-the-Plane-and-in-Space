@@ -724,7 +724,7 @@ class Medians3d:
 		pointcoordinates3d.number1 = 1
 		self.pointP = pointcoordinates3d.getpointcoordinates3d()
 		
-		for h in range (0, 3):••••••••••••••••
+		for h in range (0, 3):
 			self.compVectorPM = self.PointM[h] - self.pointP[h]
 			if h == 0:
 				self.compX = self.compVectorPM
