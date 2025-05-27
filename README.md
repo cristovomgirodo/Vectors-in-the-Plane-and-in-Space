@@ -62,7 +62,9 @@ In Python programming language , **an list data structure** are represented to *
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 The **runtoolsvectors.py and runvectors2dim.py programs** was developed to the programmers as also to teachers and students of the higher education to find speed answer when will solve the vectors problems. In **codes** of the **VectorModDev.py and VectorModule2Dim.py modules**, was do represent the **vertexes points: D, E, F, G, K, L, M, P, Q, R and S** and the **vectors: A, B, and C** of the following manner:
 
-### Point P, Q, R, and S in the Plane: 
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+### Point: D, E, F, G, P, Q, R, and S in the Plane: 
 
 ### Point P: P(xP,yP)
 ### Point Q: Q(xQ,yQ)
@@ -71,12 +73,17 @@ The **runtoolsvectors.py and runvectors2dim.py programs** was developed to the p
 
 ### Point D: D(xD,yD)
 ### Point E: E(xE,yE)
-### Point E: F(xF,yF)
+### Point F: F(xF,yF)
+### Point G: G(xG,yG)
 ### Point K : K(xK,yK)
 ### Point L : L(xL,yL)
 ### Point M : M(xM,yM)
 
-### Points: K, L, M, P, Q, R, and S in the Space: 
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+### Points: G, K, L, M, P, Q, R, and S in the Space:
+
+### Point G: G(xG,yG, zG)
 ### Point K : K(xK,yK,zK)
 ### Point L : L(xL,yL,zL)
 ### Point M : M(xM,yM,zM)
@@ -86,7 +93,7 @@ The **runtoolsvectors.py and runvectors2dim.py programs** was developed to the p
 ### Point R: R(xR,yR,zR)
 ### Point S: S(xS,yS,zS)
 
-### To any values attribute to the [Coordinates]: xD, yD, xE, yE, xF, yF, xK, yK, xL, yL, xM, yM, xP, yP, zP, xQ, yQ, zQ, xR, yR, zR, xS, yS, zS by users.
+### To any values attribute to the [Coordinates]: xD, yD, zD, xE, yE, zE, xF, yF, zF, xG, yG, zG, xK, yK, zK, xL, yL, zL, xM, yM, zM, xP, yP, zP, xQ, yQ, zQ, xR, yR, zR, xS, yS, zS by users.
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
