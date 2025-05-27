@@ -1,4 +1,7 @@
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The new **[version: 2.1]** of the **runVector2d.py program** file is only a update and too will use the **Vector2DClassModule.py module** file. The **runVector2d.py program** was not rename. Continue using the **instructions and examples** of the **instructions1-v2.0_User.pdf** file. The **Vector2DClassModule.py module** file was update with a small repair in code but is same *[version: 2.0]*.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 The new **[version: 2.0]** will use the *new* **Vector3dClassModule.py module** and **runVector3d.py program** files. In *new code* of the **Vector3dClassModule.py module** and **runVector3d.py program** files was insert *new Geometric Theorems and other Options of use*. With the definitions of *new Python class* in *code* of the **Vector3dClassModule.py module** file the lines number increase to 3745 because of necessity in create various **new class attributes**. The task of *refactor fully* the old **VectorModDev.py** module file was well *more complex* than code the *new* **Vector2DClassModule.py module** file using the **paradigm of the Python object-oriented programming** with **the class syntax**.
 
