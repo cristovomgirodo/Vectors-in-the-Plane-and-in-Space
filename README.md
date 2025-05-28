@@ -10,11 +10,11 @@ cristovomgirodo/cristovomgirodo is a ✨ special ✨ repository because its `REA
 You can click the Preview link to take a look at your changes.
 --->
 # Introduction
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 The new **[version: 2.0]** will use the *new* **Vector3dClassModule.py module** and **runVector3d.py program** files. In *new code* of the **Vector3dClassModule.py module** and **runVector3d.py program** files was insert *new Geometric Theorems and other Options of use*. With the definitions of *new Python class* in *code* of the **Vector3dClassModule.py module** file the lines number increase to 3745 because of necessity in create various **new class attributes**. The task of *refactor fully* the old **VectorModDev.py** module file was well *more complex* than code the *new* **Vector2DClassModule.py module** file using the **paradigm of the Python object-oriented programming** with **the class syntax**.
 
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## Hello the all of the GitHub
 
@@ -39,7 +39,7 @@ Neither always the developers of programming language use the same symbols as is
 
 In Python programming language , **an list data structure** are represented to **a pair square bracket [ ]**.and **an tuple data structure** are represented to **a pair square parentheses ( )**. Python program may use a *list or tuple data structure* to represent a vector. Was use the tuple data structure only to represent the coordinates of the vertexes points: P, Q, and R of triangles and too the coordinates of the vertexes points: P, Q, R and S of parallelogram, parallelepiped and tetrahedron into code of the functions into modules.
 
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ### The main point of the mathematics developed into the functions of the VectorModDev.py and VectorModule2Dim.py modules was use *definitions* and *theorems* that are:
 
@@ -57,12 +57,11 @@ In Python programming language , **an list data structure** are represented to *
 #### 12. Givens the coordinates of two points:  P and Q in Plane or Space, find the vector a=vectorPQ and too your length.
 #### 13. Determine the [Direction Cosines] and [Direction Angles] givens the Vector a or two points: P and Q in Space. 
 
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 #### When developed the VectorModDev.py and VectorModule2Dim.py modules, almost all the functions developed was use the Vectorial Algebra in a list data structure to reduce the size of the functions. As the Python lists are well powerful the runvectors2dim.py and runtoolsvectors.py programs will process any calculus using the inner functions of the previous modules. *The functions: vectornumber(), introduce(), instruction1(), instruction2() and ResultantVector()* are the only that *was not use* in the *list data structure*.
-
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 The **runtoolsvectors.py and runvectors2dim.py programs** was developed to the programmers as also to teachers and students of the higher education to find speed answer when will solve the vectors problems. In **codes** of the **VectorModDev.py and VectorModule2Dim.py modules**, was do represent the **vertexes points: D, E, F, G, K, L, M, N, P, Q, R and S** and the **vectors: A, B, and C** of the following manner:
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ### Point: D, E, F, G, P, Q, R, and S in the Plane: 
 
@@ -80,7 +79,7 @@ The **runtoolsvectors.py and runvectors2dim.py programs** was developed to the p
 ### Point S: S(xS,yS)
 
 ### To any values attribute to the [Coordinates]: xD, yD, xE, yE, xF, yF, xG, yG, xK, yK, xL, yL, xM, yM, xP, yP, xQ, yQ, xR, yR, xS, and yS by users.
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ### Points: G, K, L, M, P, Q, R, and S in the Space:
 
@@ -97,26 +96,21 @@ The **runtoolsvectors.py and runvectors2dim.py programs** was developed to the p
 
 ### To any values attribute to the [Coordinates]: xG, yG, zG, xK, yK, zK, xL, yL, zL, xM, yM, zM, xP, yP, zP, xQ, yQ, zQ, xR, yR, zR, xS, yS, zS by users.
 
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### The vectors: A, B, and C in the Plane:
 
 ### [vectorA]: vectorA[xA,yA]
 ### [vectorB]: vectorB[xB,yB]
 ### [vectorC]: vectorC[xC,yC]
 
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-### The vectors: A, B, C and D in the Space:
-
-### [vectorA]: vectorA[xA,yA,zA]
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### [vectorB]: vectorB[xB,yB,zB]
 ### [vectorC]: vectorC[xC,yC,zC]
 ### [vectorD]: vectorD[xD,yD,zD]
 
 ### To any values attribute to the [Components]: xA, yA, zA, xB, yB, zB, xC, yC, zC, xD, yD, and zD by users.
 
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 **[Warning-2]** – Was standardize **the letters: A, B, and C to the vectors** and **P, Q, R, and S to points of the vertexes of triangles, parallelogram and parallelepiped into the code of the functions** of the  **VectorModDev.py and VectorModule2Dim.py modules**. 
 
@@ -128,9 +122,11 @@ All the development of the **functions** inside of the **VectorModDev.py and Vec
 
 When the **runtoolsvectors.py and runvectors2dim.py programs** process the solutions requested, *all the results will showed by reals numbers*. **No result will presented in root or as fraction**. *All the roots or fractions are processed before of the end result*.  
 
-The **runtoolsvectors.py and runvectors2dim.py programs** *will not present no geometric design* of the *Vectors operations*. The full theory about Vectors will can be finded in the best new and old books of calculus. With the **runtoolsvectors.py and runvectors2dim.py programs** will help all the *developers(or programmers), teachers, students higher graduation* as too *any person of any field* the find the speed solution. 
+The **runtoolsvectors.py and runvectors2dim.py programs** *will not present no geometric design* of the *Vectors operations*. The full theory about Vectors will can be finded in the best new and old books of calculus. With the **runtoolsvectors.py and runvectors2dim.py programs** will help all the *developers(or programmers), teachers, students higher graduation* as too *any person of any field* the find the speed solution.
 
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 #### Developed the runtoolsvectors.py and runvectors2dim.py programs to solve vectors problems that study. Before of the use, all the users will duty follow all the instructions of the files instruction1User.pdf and  instruction2User.pdf. Now be present the all to know as too do the download to use free. I’m be the only developer( or programmer ) of the VectorModDev.py and VectorModule2Dim.py modules and of the runtoolsvectors.py and runvectors2dim.py programs.
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 #### [Warning-4]:
 The files: AlgorithmATVUDE.pdf, instructions1User.pdf, runvectors2dim.py, VectorModule2Dim.py, instructions2User.pdf, runtoolsvectors.py, and VectorModDev.py already was copy of the Vectors2Dim and Vectors3Dim directories in my computer to the my repository in the GitHub. I'm sorry the all.
@@ -159,10 +155,10 @@ Welcome the all users of the *GitHub* to use the new **[version: 1.3]** of the f
 #### [Warning-9]:
 Now present the new [version: 1.3] that will update the files: **README.md**, **Changelog.md**, **instructions2-v1.2_User.pdf** file, **runtoolsvectors.py** program as too the **VectorModDev.py** module. The new update files will **instructions2-v1.3_User.pdf**, **runtoolsvectors.py** program as too the **VectorModDev.py** module. The only *file renamed* was be **instructions2-v1.3_User.pdf**. The **Changelog.md** file have informations of all the changes in code of this update files. The *repository* now will have the **runvectors2dim.py** and **runtoolsvectors.py** *programs*, **VectorModDev.py** and **VectorModule2Dim.py** *module* as too the **instructions1-v1.3_User.pdf** and **instructions2-v1.3_User.pdf** *tutorials* in the same *version: 1.3*.
 
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 #### [New Version: 2.0]:
 Welcome the all in GitHub to know the release of the new [version: 2.0] of the **Vectors2DClassModule.py module**, **runVector2d.py program** and the **instructions1-v2.0_User.pdf** files. Inform that will not more possible *update* the old files: *runvectors2dim.py*, and *VectorModule2Dim.py* as in [version: 1.3] because of have been *refactoring* with the *new* **paradigm of the Python object-oriented programming** using only **the class sintax**. The *new files* will not have the same name. The *new code is not the same* because of **class definitions created have new atributes**. Created the following *new files*: **Vectors2DClassModule.py module**, **runVector2d.py program** and the **instructions1-v2.0_User.pdf** file in replacement to the previous files.
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ### The main point of the mathematics developed into *code* of the classes in Vectors2DClassModule.py module was use *definitions* and *theorems* that are:
 
@@ -185,20 +181,18 @@ Welcome the all in GitHub to know the release of the new [version: 2.0] of the *
 #### 15. Get the [Coordinates] of any a of the [ Points: D(xD,yD) or E(xE,yE), or F(xF,yF) ] that are meeted with the [bisectrixs: PD or QE or RF] in sides: QR or PR or PQ of a  Triangle(PQR).
 #### 16. Determine any a of the [Inner bisectrixs]: PD or QE or RF of a Triangle(PQR).
 
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-In any *Command Prompt Windows* or *Terminal Linux* use *only* the **runVector2d.py program** file to run the new **[version: 2.0]** of the **Vectors2DClassModule.py module**.To more details access the *new instructions* of the **instructions1-v2.0_User.pdf** file. In my **repository** will maintain all the files always created. The users will continue using as in the last. The new **instructions1-v2.0_User.pdf** file will have more new *Instructions* and *Examples* because of **Vector2dClassModule.py module** file have *new* classes with methods in replacement of the functions always created in **VectorModule2Dim.py module** and too have more new **supplementary classes**. 
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+In any *Command Prompt Windows* or *Terminal Linux* use *only* the **runVector2d.py program** file to run the new **[version: 2.0]** of the **Vectors2DClassModule.py module**.To more details access the *new instructions* of the **instructions1-v2.0_User.pdf** file. In my **repository** will maintain all the files always created. The users will continue using as in the last. The new **instructions1-v2.0_User.pdf** file will have more new *Instructions* and *Examples* because of **Vector2dClassModule.py module** file have *new* classes with methods in replacement of the functions always created in **VectorModule2Dim.py module** and too have more new **supplementary classes**.
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 #### [Warning-1]: Never use the *runvectors2dim.py program* to run the *new* **Vector2DClassModule.py module** file. 
 
 Too add the following *new files*: **TrianglePQR.pdf** and **ParallelogramPQRS.pdf** in *repository* to all users view and follow the *Examples: 6(page: 18), New Example 7(page: 20), and too New Example 13 and 14 in pages: 36 and 54* of the **instructions1-v2.0_User.pdf** file. Continue *still* using the files: *runtoolsvectors.py program* with the *VectorModDev.py module*, and too the *instructions2-v1.3_User.pdf* to solve new problems. Inform the all that *still* was not possible begin the *refactor* this previous files. Because of be refactor and test the *new* **[version: 2.0]** of the **Vector2dClassModule.py module** and **runVector2d.py program** files. Was a hard work. Without forecast of when will be ready to use the *[new version: 2.0]* of this previous files.
 
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 #### [New Version: 2.0]:
 Hello the all in GitHub and too in World to know the release of the new [version: 2.0] of the *files*: **Vector3dClassModule.py module**, **runVector3d.py program** and the **instructions2-v2.0_User.pdf**. Inform the all that *will not* more possible *update* the *old files*: *runtoolsvectors.py*, and *VectorModDev.py* as in [version: 1.3] because of have been all *refactoring* with the *new* **paradigm of the Python object-oriented programming** using only **the class syntax**. The *new files* will not have the same name. The *new code is not the same* because of **class definitions created have new attributes and methods**. Created the following *new files*: **Vector3dClassModule.py module**, **runVector3d.py program**, and too the **instructions2-v2.0_User.pdf** file in replacement to the previous files. The *[new]* **instructions2-v2.0_User.pdf** file will have more new *Instructions* and *Examples* because of **Vector3dClassModule.py module** file have *new* **class definitions with methods** in *replacement of the functions* always created in **VectorModDev.py** module and too have more *new* **supplementary classes** with others **Theorems** of the **Calculus**. All the *users* will view that with the use of the **new code** in **runVector3d.py program**  and **Vector3dClassModule.py module** files is **well more powerful** than the *runtoolsvectors.py*, and *VectorModDev.py* files. Only use the **runVector3d.py program** file follow *all* the **new Instructions and Examples** of the **instructions2-v2.0_User.pdf** *file*.
-
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 #### [Warning!]: never use the [old] runtoolsvectors.py program to run the [new] Vector3dClassModule.py module module file. [Will not possible run this previous file - Ok!].
 
@@ -232,8 +226,7 @@ Hello the all in GitHub and too in World to know the release of the new [version
 #### 20. To get the [dimensions]: [Perimeter(P)], [heights(h1,h2)], and [Area(S)] of a [Parallelogram(PQRS)].
 #### 21. Calculate the [Vertices]: P(xP,yP,zP), Q(xQ,yQ,zQ), and R(xR,yR,zR) of a triangle(PQR) with the given [Coordinates] of the [Middle points]: K(xK,yK,zK), L(xL,yL,zL), M(xM,yM,zM).
 
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 In any **Command Prompt Windows** or **Terminal Linux** use *only* the **runVector3d.py program** file to run the new **[version: 2.0]** of the **Vector3dClassModule.py module**.To *more details* access all the *new* **instructions and examples** of the **instructions2-v2.0_User.pdf** file. Now this repository is complete with the *new* **version: 2.0**. A *[new]* **[version: 2.1]** of the **runVector2d.py program** file was release and 
 In any **Command Prompt Windows** or **Terminal Linux** use *only* the **runVector3d.py program** file to run the new **[version: 2.0]** of the **Vector3dClassModule.py module**.To *more details* access all the *new* **instructions and examples** of the **instructions2-v2.0_User.pdf** file. Now this repository is complete with the *new* **version: 2.0**. A *[new]* **[version: 2.1]** of the **runVector2d.py program** file was release and was update the **[code]** of the **Vector2dClassModule.py module** file  **[version: 2.0]** because of small error.
 
