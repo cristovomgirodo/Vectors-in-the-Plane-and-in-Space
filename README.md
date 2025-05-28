@@ -168,7 +168,7 @@ Welcome the all in GitHub to know the release of the new [version: 2.0] of the *
 ####  4. Find the [angle] between [two vectors] in |R² Plane. 
 ####  5. Calculate the [value] of the [CossineTheta] between the [Two Vectors: vectorA[a1, a2], and vectorB[b1, b2]].
 ####  6. Find the three sides and [Inner Angles: ALPHA, BETA, and GAMA] of the [Triangle(PQR)] with the [coordinates] of the [points: P(xP,yP), Q(xQ,yQ), and R(xR,yR)]. 
-####  7. Determine the following [Middle Points]: K(xK,yK), L(xL,yL), M(xM,yM)] and N(xN,yN)] between [ points: P(xP,yP), Q(xQ,yQ), R(xR,yR), and S(xS,yS) ] or in the sides: PQ, PR, and QR of          a Triangle(PQR).
+####  7. Determine the following [Middle Points]: K(xK,yK), L(xL,yL), M(xM,yM)] and N(xN,yN)] between [ points: P(xP,yP), Q(xQ,yQ), R(xR,yR), and S(xS,yS) ] or in the sides: PQ, PR, and QR of                  a Triangle(PQR).
 ####  8. Get the [Addition and Subtraction] of [Two Vectors: vectorA[a1, a2], and vectorB[b1, b2]].
 ####  9. Calculate the [Resultant(|R) Vector].
 #### 10. Find the [VectorA and lenght|A|] with the [coordinates] of the [points: P(xP,yP), and Q(xQ,yQ)]
@@ -219,8 +219,8 @@ Hello the all in GitHub and too in World to know the release of the new [version
 #### 14. Calculate the following [Middle Points]: K(xK,yK,zK), L(xL,yL,zL), M(xM,yM,zM)] relative the [sides]: PQ, PR, and QR of a Triangle(PQR).
 #### 15. Determine the [Medianas: PM, QL, and RK] of the triangle(PQR).
 #### 16. Find the [Centroid: G(xG,yG,zG)] of the triangle(PQR).
-#### 17. To determine the [Medians: PM, QL, and RK] of a Triangle(PQR)
-#### 18. Provide the given [Components] of a [vectorA] or find a [new vectorA] that represent a [oriented segmentPQ] with the given [Coordinates] of [two points]: P and Q and
+#### 17. To determine the [Medians: PM, QL, and RK] of a Triangle(PQR).
+#### 18. Provide the given [Components] of a [vectorA] or find a [new vectorA] that represent a [oriented segmentPQ] with the given [Coordinates] of [two points]: P and Q and 
 ####     calculate the [Direction Cosines] and [Direction Angles].
 #### 19. To calculate the [dimensions]: [Perimeter(P)], [Heights(h1,h2,h3)], and [Area(A)] of a [TrianglePQR]  with the given [Coordinates] of the [three points]: P, Q, and R.
 #### 20. To get the [dimensions]: [Perimeter(P)], [heights(h1,h2)], and [Area(S)] of a [Parallelogram(PQRS)].
