@@ -220,8 +220,7 @@ Hello the all in GitHub and too in World to know the release of the new [version
 #### 15. Determine the [Medianas: PM, QL, and RK] of the triangle(PQR).
 #### 16. Find the [Centroid: G(xG,yG,zG)] of the triangle(PQR).
 #### 17. To determine the [Medians: PM, QL, and RK] of a Triangle(PQR).
-#### 18. Provide the given [Components] of a [vectorA] or find a [new vectorA] that represent a [oriented segmentPQ] with the given [Coordinates] of [two points]: P and Q and 
-####     calculate the [Direction Cosines] and [Direction Angles].
+#### 18. Provide the given [Components] of a [vectorA] or find a [new vectorA] that represent a [oriented segmentPQ] with the given [Coordinates] of [two points]: P and Q and calculate the [Direction Cosines] and [Direction Angles].
 #### 19. To calculate the [dimensions]: [Perimeter(P)], [Heights(h1,h2,h3)], and [Area(A)] of a [TrianglePQR]  with the given [Coordinates] of the [three points]: P, Q, and R.
 #### 20. To get the [dimensions]: [Perimeter(P)], [heights(h1,h2)], and [Area(S)] of a [Parallelogram(PQRS)].
 #### 21. Calculate the [Vertices]: P(xP,yP,zP), Q(xQ,yQ,zQ), and R(xR,yR,zR) of a triangle(PQR) with the given [Coordinates] of the [Middle points]: K(xK,yK,zK), L(xL,yL,zL), M(xM,yM,zM).
