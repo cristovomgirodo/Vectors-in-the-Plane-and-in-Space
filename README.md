@@ -103,7 +103,11 @@ The **runtoolsvectors.py and runvectors2dim.py programs** was developed to the p
 ### [vectorB]: vectorB[xB,yB]
 ### [vectorC]: vectorC[xC,yC]
 
+### To any values attribute to the [Components]: xA, yA, xB, yB, xC, yC, xD, and yD by users.
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+### The vectors: A, B, C and D in the Space
+
+### [vectorA]: vectorA[xA,yA,zA]
 ### [vectorB]: vectorB[xB,yB,zB]
 ### [vectorC]: vectorC[xC,yC,zC]
 ### [vectorD]: vectorD[xD,yD,zD]
