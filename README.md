@@ -10,11 +10,6 @@ cristovomgirodo/cristovomgirodo is a ✨ special ✨ repository because its `REA
 You can click the Preview link to take a look at your changes.
 --->
 # Introduction
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-The new **[version: 2.0]** will use the *new* **Vector3dClassModule.py module** and **runVector3d.py program** files. In *new code* of the **Vector3dClassModule.py module** and **runVector3d.py program** files was insert *new Geometric Theorems and other Options of use*. With the definitions of *new Python class* in *code* of the **Vector3dClassModule.py module** file the lines number increase to 3745 because of necessity in create various **new class attributes**. The task of *refactor fully* the old **VectorModDev.py** module file was well *more complex* than code the *new* **Vector2DClassModule.py module** file using the **paradigm of the Python object-oriented programming** with **the class syntax**.
-
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## Hello the all of the GitHub
 
@@ -194,7 +189,7 @@ In any *Command Prompt Windows* or *Terminal Linux* use *only* the **runVector2d
 Too add the following *new files*: **TrianglePQR.pdf** and **ParallelogramPQRS.pdf** in *repository* to all users view and follow the *Examples: 6(page: 18), New Example 7(page: 20), and too New Example 13 and 14 in pages: 36 and 54* of the **instructions1-v2.0_User.pdf** file. Continue *still* using the files: *runtoolsvectors.py program* with the *VectorModDev.py module*, and too the *instructions2-v1.3_User.pdf* to solve new problems. Inform the all that *still* was not possible begin the *refactor* this previous files. Because of be refactor and test the *new* **[version: 2.0]** of the **Vector2dClassModule.py module** and **runVector2d.py program** files. Was a hard work. Without forecast of when will be ready to use the *[new version: 2.0]* of this previous files.
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-#### [New Version: 2.0]:
+### [New Version: 2.0]:
 Hello the all in GitHub and too in World to know the release of the new [version: 2.0] of the *files*: **Vector3dClassModule.py module**, **runVector3d.py program** and the **instructions2-v2.0_User.pdf**. Inform the all that *will not* more possible *update* the *old files*: *runtoolsvectors.py*, and *VectorModDev.py* as in [version: 1.3] because of have been all *refactoring* with the *new* **paradigm of the Python object-oriented programming** using only **the class syntax**. The *new files* will not have the same name. The *new code is not the same* because of **class definitions created have new attributes and methods**. Created the following *new files*: **Vector3dClassModule.py module**, **runVector3d.py program**, and too the **instructions2-v2.0_User.pdf** file in replacement to the previous files. The *[new]* **instructions2-v2.0_User.pdf** file will have more new *Instructions* and *Examples* because of **Vector3dClassModule.py module** file have *new* **class definitions with methods** in *replacement of the functions* always created in **VectorModDev.py** module and too have more *new* **supplementary classes** with others **Theorems** of the **Calculus**. All the *users* will view that with the use of the **new code** in **runVector3d.py program**  and **Vector3dClassModule.py module** files is **well more powerful** than the *runtoolsvectors.py*, and *VectorModDev.py* files. Only use the **runVector3d.py program** file follow *all* the **new Instructions and Examples** of the **instructions2-v2.0_User.pdf** *file*.
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -230,6 +225,11 @@ Hello the all in GitHub and too in World to know the release of the new [version
 #### 21. Calculate the [Vertices]: P(xP,yP,zP), Q(xQ,yQ,zQ), and R(xR,yR,zR) of a triangle(PQR) with the given [Coordinates] of the [Middle points]: K(xK,yK,zK), L(xL,yL,zL), M(xM,yM,zM).
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+The new **[version: 2.0]** will use the *new* **Vector3dClassModule.py module** and **runVector3d.py program** files. In *new code* of the **Vector3dClassModule.py module** and **runVector3d.py program** files was insert *new Geometric Theorems and other Options of use*. With the definitions of *new Python class* in *code* of the **Vector3dClassModule.py module** file the lines number increase to 3745 because of necessity in create various **new class attributes**. The task of *refactor fully* the old **VectorModDev.py** module file was well *more complex* than code the *new* **Vector2DClassModule.py module** file using the **paradigm of the Python object-oriented programming** with **the class syntax**.
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 In any **Command Prompt Windows** or **Terminal Linux** use *only* the **runVector3d.py program** file to run the new **[version: 2.0]** of the **Vector3dClassModule.py module**.To *more details* access all the *new* **instructions and examples** of the **instructions2-v2.0_User.pdf** file. Now this repository is complete with the *new* **version: 2.0**. A *[new]* **[version: 2.1]** of the **runVector2d.py program** file was release and 
 In any **Command Prompt Windows** or **Terminal Linux** use *only* the **runVector3d.py program** file to run the new **[version: 2.0]** of the **Vector3dClassModule.py module**.To *more details* access all the *new* **instructions and examples** of the **instructions2-v2.0_User.pdf** file. Now this repository is complete with the *new* **version: 2.0**. A *[new]* **[version: 2.1]** of the **runVector2d.py program** file was release and was update the **[code]** of the **Vector2dClassModule.py module** file  **[version: 2.0]** because of small error.
 
