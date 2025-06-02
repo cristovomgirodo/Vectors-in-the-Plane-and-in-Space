@@ -90,7 +90,7 @@ In Python programming language , **an list data structure** are represented to *
 ### [vectorB]: vectorB[xB,yB]
 ### [vectorC]: vectorC[xC,yC]
 
-### To any values attribute to the [Components]: xA, yA, xB, yB, xC, yC, xD, and yD by users.
+### To any values attribute to the [Components]: xA, yA, xB, yB, xC, and yC by users.
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### The vectors: A, B, C and D in the Space
 
