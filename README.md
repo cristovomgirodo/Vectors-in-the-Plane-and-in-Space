@@ -21,11 +21,9 @@ Below do a **small description theoretical** of the **symbols** used in *represe
 
 Some *authors* of Calculus do the analytic definition of vectors using **coordinates (x,y) for any point P in plane** to associate a unique **ordered pair <x,y>** to the **vector v = vectorOP** ( *whose initial point is the origin O* ) and the **coordinates (x,y,z) for any point Q in space** to associate a unique **ordered triple<x,y,z>** to the **vector w = vectorOQ**.
 
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 It is important to note that **the vectors <x,y> and <x,y,z>** are **ordered pairs and triples of reals numbers**, are not **points (x,y) and (x,y,z) in the plane and space**. For the **vector v = <x,y> and vector w = <x,y,z>**, the **numbers x and y** are the **components of the vector v** and  the **numbers x, y and z** are the **components of the vector w**.
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 Others *authors* of Calculus do the analytic definition of vectors of a manner confuse as: **vector u = (x,y)** in *plane* or **vector w = (x, y, z)** in *space* and to any **point** as: **point P(x,y)** or **point Q(x,y,z)**. Use the same **pair square parentheses ( )** to **vectors** and too to **points**.
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ### In the Linear Algebra a list of values 
 ```
@@ -146,10 +144,10 @@ Welcome the all users of the *GitHub* to use the new **[version: 1.3]** of the f
 Now present the new [version: 1.3] that will update the files: **README.md**, **Changelog.md**, **instructions2-v1.2_User.pdf** file, **runtoolsvectors.py** program as too the **VectorModDev.py** module. The new update files will **instructions2-v1.3_User.pdf**, **runtoolsvectors.py** program as too the **VectorModDev.py** module. The only *file renamed* was be **instructions2-v1.3_User.pdf**. The **Changelog.md** file have informations of all the changes in code of this update files. The *repository* now will have the **runvectors2dim.py** and **runtoolsvectors.py** *programs*, **VectorModDev.py** and **VectorModule2Dim.py** *module* as too the **instructions1-v1.3_User.pdf** and **instructions2-v1.3_User.pdf** *tutorials* in the same *version: 1.3*.
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 ### [New Version: 2.0]:
 
-Welcome the all in GitHub to know the release of the new [version: 2.0] of the **Vectors2DClassModule.py module**, **runVector2d.py program** and the **instructions1-v2.0_User.pdf** files. Inform that will not more possible *update* the old files: *runvectors2dim.py*, and *VectorModule2Dim.py* as in [version: 1.3] because of have been *refactoring* with the *new* **paradigm of the Python object-oriented programming** using only **the class sintax**. The *new files* will not have the same name. The *new code is not the same* because of **class definitions created have new atributes**. Created the following *new files*: **Vectors2DClassModule.py module**, **runVector2d.py program** and the **instructions1-v2.0_User.pdf** file in replacement to the previous files.
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+#### Welcome the all in GitHub to know the release of the new [version: 2.0] of the **Vectors2DClassModule.py module**, **runVector2d.py program** and the **instructions1-v2.0_User.pdf** files. Inform that will not more possible *update* the old files: *runvectors2dim.py*, and *VectorModule2Dim.py* as in [version: 1.3] because of have been *refactoring* with the *new* **paradigm of the Python object-oriented programming** using only **the class sintax**. The *new files* will not have the same name. The *new code is not the same* because of **class definitions created have new atributes**. Created the following *new files*: **Vectors2DClassModule.py module**, **runVector2d.py program** and the **instructions1-v2.0_User.pdf** file in replacement to the previous files.
 
 ### The main point of the mathematics developed into *code* of the classes in Vectors2DClassModule.py module was use *definitions* and *theorems* that are:
 
