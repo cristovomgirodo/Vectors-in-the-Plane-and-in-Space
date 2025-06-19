@@ -3043,7 +3043,7 @@ class FindVectorC:
 findvectorC = FindVectorC()
 
 class EnterCoordPointRS:
-	'''Given any two points: Q and R find the vector C'''
+	'''Given any two points: Q and R find the vector D'''
 	def __init__(self, coord = 0, pointR = [], pointS = [], PointR = (), PointS = (), xR = 0, yR = 0, zR = 0, xS = 0,   
 	yS = 0, zS = 0,):
 		self.coord = coord
