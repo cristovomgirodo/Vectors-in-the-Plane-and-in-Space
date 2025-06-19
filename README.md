@@ -193,28 +193,13 @@ Now present the new [version: 1.3] that will update the files: **README.md**, **
 ### Point S: S(xS,yS)
 
 ### To any values attribute to the [Coordinates]: xD, yD, xE, yE, xF, yF, xG, yG, xK, yK, xL, yL, xM, yM, xP, yP, xQ, yQ, xR, yR, xS, and yS by users.
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-### Points: G, K, L, M, P, Q, R, and S in the Space:
-
-### Point G: G(xG,yG, zG)
-### Point K: K(xK,yK,zK)
-### Point L: L(xL,yL,zL)
-### Point M: M(xM,yM,zM)
-### Point N: N(xN,yN,zN)
-
-### Point P: P(xP,yP,zP)
-### Point Q: Q(xQ,yQ,zQ)
-### Point R: R(xR,yR,zR)
-### Point S: S(xS,yS,zS)
-
-### To any values attribute to the [Coordinates]: xG, yG, zG, xK, yK, zK, xL, yL, zL, xM, yM, zM, xP, yP, zP, xQ, yQ, zQ, xR, yR, zR, xS, yS, zS by users.
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Too add the following *new files*: **TrianglePQR.pdf** and **ParallelogramPQRS.pdf** in *repository* to all users view and follow the *Examples: 6(page: 18), New Example 7(page: 20), and too New Example 13 and 14 in pages: 36 and 54* of the **instructions1-v2.0_User.pdf** file. Continue *still* using the files: *runtoolsvectors.py program* with the *VectorModDev.py module*, and too the *instructions2-v1.3_User.pdf* to solve new problems. Inform the all that *still* was not possible begin the *refactor* this previous files. Because of be refactor and test the *new* **[version: 2.0]** of the **Vector2dClassModule.py module** and **runVector2d.py program** files. Was a hard work. Without forecast of when will be ready to use the *[new version: 2.0]* of this previous files.
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 ### [New Version: 2.0]:
 
 #### Hello the all in GitHub and too in World to know the release of the new [version: 2.0] of the *files*: **Vector3dClassModule.py module**, **runVector3d.py program** and the **instructions2-v2.0_User.pdf**. Inform the all that *will not* more possible *update* the *old files*: *runtoolsvectors.py*, and *VectorModDev.py* as in [version: 1.3] because of have been all *refactoring* with the *new* **paradigm of the Python object-oriented programming** using only **the class syntax**. The *new files* will not have the same name. The *new code is not the same* because of **class definitions created have new *attributes* and methods**. Created the following *new files*: **Vector3dClassModule.py module**, **runVector3d.py program**, and too the **instructions2-v2.0_User.pdf** file in replacement to the previous files. The *[new]* **instructions2-v2.0_User.pdf** file will have more new *Instructions* and *Examples* because of **Vector3dClassModule.py module** file have *new* **class definitions with methods** in *replacement of the functions* always created in **VectorModDev.py** module and too have more *new* **supplementary classes** with others **Theorems** of the **Calculus**. All the *users* will view that with the use of the **new code** in **runVector3d.py program**  and **Vector3dClassModule.py module** files is **well more powerful** than the *runtoolsvectors.py*, and *VectorModDev.py* files. Only use the **runVector3d.py program** file follow *all* the **new Instructions and Examples** of the **instructions2-v2.0_User.pdf** *file*.
@@ -246,6 +231,31 @@ Too add the following *new files*: **TrianglePQR.pdf** and **ParallelogramPQRS.p
 #### 20. To get the [dimensions]: [Perimeter(P)], [heights(h1,h2)], and [Area(S)] of a [Parallelogram(PQRS)].
 #### 21. Calculate the [Vertices]: P(xP,yP,zP), Q(xQ,yQ,zQ), and R(xR,yR,zR) of a triangle(PQR) with the given [Coordinates] of the [Middle points]: K(xK,yK,zK), L(xL,yL,zL), M(xM,yM,zM).
 
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+### Points: G, K, L, M, P, Q, R, and S in the Space:
+
+### Point G: G(xG,yG, zG)
+### Point K: K(xK,yK,zK)
+### Point L: L(xL,yL,zL)
+### Point M: M(xM,yM,zM)
+### Point N: N(xN,yN,zN)
+
+### Point P: P(xP,yP,zP)
+### Point Q: Q(xQ,yQ,zQ)
+### Point R: R(xR,yR,zR)
+### Point S: S(xS,yS,zS)
+
+### To any values attribute to the [Coordinates]: xG, yG, zG, xK, yK, zK, xL, yL, zL, xM, yM, zM, xP, yP, zP, xQ, yQ, zQ, xR, yR, zR, xS, yS, zS by users.
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+### The vectors: A, B, C and D in the Space
+
+### [vectorA]: vectorA[xA,yA,zA]
+### [vectorB]: vectorB[xB,yB,zB]
+### [vectorC]: vectorC[xC,yC,zC]
+### [vectorD]: vectorC[xD,yD,zD]
+
+### To any values attribute to the [Components]: xA, yA, zA, xB, yB, zB, xC, yC, zC, xD, yD, and zD by users.
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 #### The new **[version: 2.0]** will use the *new* **Vector3dClassModule.py module** and **runVector3d.py program** files. In *new code* of the **Vector3dClassModule.py module** and **runVector3d.py program** files was insert *new Geometric Theorems and other Options of use*. With the definitions of *new Python class* in *code* of the **Vector3dClassModule.py module** file the lines number increase to 3745 because of necessity in create various **new class attributes**. The task of *refactor fully* the old **VectorModDev.py** module file was well *more complex* than code the *new* **Vector2DClassModule.py module** file using the **paradigm of the Python object-oriented programming** with **the class syntax**.
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
